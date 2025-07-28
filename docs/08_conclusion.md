@@ -1,3 +1,6 @@
+!!! tip "Heraclitus (Ancient Greek philosopher, c. 500 BCE)"
+    Change is the only constant.
+
 ## Chapter 8: Conclusion – Your AI Copilot Journey Continues
 
 Congratulations! You've completed this crash course in AI prompting. You've moved beyond basic commands to understanding the underlying principles that make AI truly powerful:

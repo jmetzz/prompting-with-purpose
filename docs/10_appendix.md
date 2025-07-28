@@ -1,3 +1,6 @@
+!!! tip "Stephen Hawking (A Brief History of Time, 1988)"
+    The universe doesn’t allow perfection.
+
 ## Appendix: Advanced Prompting Topics
 
 This crash course has provided you with a solid foundation in AI prompting. As you become more comfortable, you might want to explore more advanced techniques and patterns to further enhance your interactions with AI. This appendix lists some of these topics for your future learning, showing how they build upon the core principles you've already mastered.

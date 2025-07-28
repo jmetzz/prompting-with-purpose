@@ -1,4 +1,7 @@
-## Chapter 4: Exploring Meta-prompting – Letting AI Help You Prompt Better!
+!!! tip "Richard Feynman (Caltech commencement speech, 1974)"
+    The first principle is that you must not fool yourself—and you are the easiest person to fool.
+
+## Chapter 4: Exploring Meta-prompting – Letting AI Help You Prompt Better
 
 You've mastered crafting detailed prompts (First Principles) and guiding AI through steps (Chain of Thought). Now, let's explore a concept that truly elevates your AI interaction to a collaborative partnership: **Meta-prompting**.
 
@@ -82,8 +85,8 @@ Here's how Alex would use Meta-prompting to create a more comprehensive prompt f
 
 Think of the three techniques you've learned as a powerful toolkit for any task:
 
-1.  **First Principles Thinking:** This is your **planning** phase. You break down your problem into its fundamental components (goal, context, constraints, format) to understand what you need to ask.
-2.  **Chain of Thought Prompting:** This is your **execution** phase. You guide the AI through the steps you identified in your planning phase, ensuring a logical and accurate process.
-3.  **Meta-Prompting:** This is your **optimization** phase. You collaborate with the AI to refine your prompts, making your planning and execution even more effective. It's how you turn a good prompt into a great one.
+1. **First Principles Thinking:** This is your **planning** phase. You break down your problem into its fundamental components (goal, context, constraints, format) to understand what you need to ask.
+2. **Chain of Thought Prompting:** This is your **execution** phase. You guide the AI through the steps you identified in your planning phase, ensuring a logical and accurate process.
+3. **Meta-Prompting:** This is your **optimization** phase. You collaborate with the AI to refine your prompts, making your planning and execution even more effective. It's how you turn a good prompt into a great one.
 
 By mastering this trio, you can confidently tackle any challenge, transforming the AI from a simple tool into a true creative and problem-solving partner.

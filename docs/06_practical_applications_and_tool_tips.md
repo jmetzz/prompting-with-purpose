@@ -1,3 +1,6 @@
+!!! tip "Arthur C. Clarke (Profiles of the Future, 1962)"
+    Any sufficiently advanced technology is indistinguishable from magic.
+
 ## Chapter 6: Leveraging AI Tools by Type – Choosing Your Copilot Wisely
 
 While the core prompting principles (First Principles, Chain of Thought, Meta-prompting) apply universally, different AI tools excel at different tasks. Understanding their strengths will help you pick the right "copilot" for the job, making your workflow smoother and more effective.

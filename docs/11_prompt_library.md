@@ -1,3 +1,6 @@
+!!! tip "John Steinbeck (East of Eden, 1952)"
+    The free exploring mind of the individual human is the most valuable thing in the world.
+
 ## Prompt Library – Ready-to-Use Examples
 
 This library provides a collection of practical prompts you can use and adapt for various tasks. These examples demonstrate how the core prompting techniques (First Principles, Chain of Thought, Meta-Prompting) can be applied in real-world scenarios.

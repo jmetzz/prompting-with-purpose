@@ -1,3 +1,6 @@
+!!! tip "Isaac Asimov (Attributed)"
+    The true beauty of the universe lies in its complexity, not its simplicity.
+
 # AI Prompting Crash Course: Using AI as a Copilot
 
 Welcome to the AI Prompting Crash Course! This course is designed for non-technical students who want to learn how to effectively use Artificial Intelligence as a copilot in their work.

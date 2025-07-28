@@ -1,3 +1,6 @@
+!!! tip "Isaac Asimov"
+    The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.
+
 ## Chapter 3: Mastering Chain of Thought Prompting – Guiding AI's Reasoning
 
 You've learned how to craft a detailed, single prompt. Now, let's unlock another powerful technique: **Chain of Thought (CoT) prompting**. This is where you transform the AI from a simple responder into a true problem-solving partner, especially for complex tasks like detailed research, brainstorming intricate ideas, or validating multi-faceted concepts.
@@ -24,10 +27,10 @@ Imagine you're solving a complex problem or planning a big project. You don't ju
 >
 > **How to use checkpoints:**
 >
-> 1.  **Give the AI one clear task at a time.**
-> 2.  **Review the output of that task.** Does it make sense? Is it accurate? Is it what you asked for?
-> 3.  **If it's good, move to the next step.**
-> 4.  **If it's not quite right, give a corrective instruction in your next prompt.** For example, you could say, "That's a good start, but for the next step, please focus more on..." or "In the list you just gave me, please remove the incorrect items before we move on."
+> 1. **Give the AI one clear task at a time.**
+> 2. **Review the output of that task.** Does it make sense? Is it accurate? Is it what you asked for?
+> 3. **If it's good, move to the next step.**
+> 4. **If it's not quite right, give a corrective instruction in your next prompt.** For example, you could say, "That's a good start, but for the next step, please focus more on..." or "In the list you just gave me, please remove the incorrect items before we move on."
 
 ### 3.2 Connecting Chain of Thought to First Principles
 
@@ -112,6 +115,7 @@ Now that Alex has the raw data, the next logical step is to organize it into a b
 > - Pinch off small shoots that grow between the main stem and branches to help the plant focus energy on fruit.
 >
 > ### Harvesting Your Cherry Tomatoes
+>
 > - Pick your cherry tomatoes when they are fully colored and feel a little soft when gently squeezed.
 > ```
 

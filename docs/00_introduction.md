@@ -1,3 +1,6 @@
+!!! tip "Isaac Asimov"
+    I do not fear computers. I fear the lack of them.
+
 ## Introduction: From Simple Questions to Powerful Solutions
 
 You've probably used AI to ask a question or find a quick fact. But what if you could use it to invent a new recipe, plan a complex project, or get a second opinion on a big decision?

@@ -1,3 +1,6 @@
+!!! tip "Isaac Asimov"
+    The most exciting phrase to hear in science, the one that heralds new discoveries, is not 'Eureka!' but 'That's funny...'
+
 ## Chapter 1: Understanding AI Basics & What a 'Prompt' Really Is
 
 Before we dive into advanced techniques, let's ensure we're all on the same page with some foundational concepts.

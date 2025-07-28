@@ -1,3 +1,6 @@
+!!! tip "George Orwell (In Front of Your Nose, 1946)"
+    To see what is in front of one's nose needs a constant struggle.
+
 ## Chapter 5: Verify Your Results – Trust, But Always Check
 
 Now that you've learned how to ask Cortex for amazing things, it's time for one of the most important skills: how to check its work. Think of Cortex as the most brilliant intern you've ever had. It's read every book and website, can draft a report in seconds, and never gets tired. However, it has no real-world experience. It might misremember a detail, state an old fact as if it's new, or get overly enthusiastic and make a creative leap that isn't quite right. It's always confident, but not always correct.
@@ -36,16 +39,16 @@ Let's see how Alex uses the SENSE check.
 >
 > > "Of course, Alex! Here are three excellent choices for a beginner's balcony garden:
 > >
-> > 1.  **Cherry Tomatoes:** They are very productive in containers and love the sun.
-> > 2.  **Leaf Lettuce:** Grows quickly, doesn't need deep pots, and you can harvest leaves as needed.
-> > 3.  **Artichokes:** A wonderful choice as they grow rapidly in small 5-gallon pots and are famously resistant to common garden pests like aphids."
+> > 1. **Cherry Tomatoes:** They are very productive in containers and love the sun.
+> > 2. **Leaf Lettuce:** Grows quickly, doesn't need deep pots, and you can harvest leaves as needed.
+> > 3. **Artichokes:** A wonderful choice as they grow rapidly in small 5-gallon pots and are famously resistant to common garden pests like aphids."
 
 Now, Alex performs the SENSE check:
 
-1.  **Source:** Alex asks Cortex, `"Where can I find more information about growing artichokes on a balcony?"` Cortex provides a generic gardening link, but it doesn't specifically back up the "small pots" claim.
-2.  **Expertise:** Alex has seen tomatoes and lettuce on balconies, but artichokes seem... large. This doesn't quite match Alex's expert expectation of a "balcony" vegetable.
-3.  **Nonsense (The Spot-Check):** The key claim is "grow rapidly in small 5-gallon pots." Alex does a quick web search for: `"how big are artichoke plants"`
-4.  **Second Opinion:** The search results immediately show that artichoke plants are very large (3-4 feet tall and wide) and require deep, wide containers. They are also known to be susceptible to aphids. This contradicts Cortex's answer.
-5.  **Expectation:** Alex's expectation was for _easy_ and _beginner-friendly_ plants. The second opinion confirms that while possible, artichokes are not an easy choice for a beginner's balcony garden.
+1. **Source:** Alex asks Cortex, `"Where can I find more information about growing artichokes on a balcony?"` Cortex provides a generic gardening link, but it doesn't specifically back up the "small pots" claim.
+2. **Expertise:** Alex has seen tomatoes and lettuce on balconies, but artichokes seem... large. This doesn't quite match Alex's expert expectation of a "balcony" vegetable.
+3. **Nonsense (The Spot-Check):** The key claim is "grow rapidly in small 5-gallon pots." Alex does a quick web search for: `"how big are artichoke plants"`
+4. **Second Opinion:** The search results immediately show that artichoke plants are very large (3-4 feet tall and wide) and require deep, wide containers. They are also known to be susceptible to aphids. This contradicts Cortex's answer.
+5. **Expectation:** Alex's expectation was for _easy_ and _beginner-friendly_ plants. The second opinion confirms that while possible, artichokes are not an easy choice for a beginner's balcony garden.
 
 **Conclusion:** Alex learned a valuable lesson. Cortex provided two great suggestions and one that was confidently incorrect. By using the simple SENSE check, Alex was able to filter the bad information and keep the good, ensuring the workshop content is accurate and helpful.

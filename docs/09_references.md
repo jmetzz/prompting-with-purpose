@@ -1,3 +1,6 @@
+!!! tip "Isaac Asimov"
+    Self-education is, I firmly believe, the only kind of education there is.
+
 # References for AI Prompting Crash Course
 
 This section provides a consolidated list of reputable resources for further learning in AI prompt engineering. These references are organized by provider or general topic for easy navigation.
