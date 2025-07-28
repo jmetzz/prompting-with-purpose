@@ -3,6 +3,19 @@ theme:
   name: material
   features:
     - content.code.copy
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Switch to dark mode
+    - scheme: slate
+      primary: deep purple
+      accent: lime
+      toggle:
+        icon: material/brightness-7
+        name: Switch to light mode
 
 markdown_extensions:
   - admonition
@@ -31,16 +44,16 @@ markdown_extensions:
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
 nav:
-  - 'Home': 'index.md'
-  - 'Introduction': '00_introduction.md'
-  - 'Understanding AI Basics': '01_understanding_ai_basics.md'
-  - 'First Principles Thinking': '02_first_principles_thinking.md'
-  - 'Chain of Thought Prompting': '03_chain_of_thought_prompting.md'
-  - 'Meta Prompting': '04_meta_prompting.md'
-  - 'Results Verification': '05_results_verification.md'
-  - 'Practical Applications and Tool Tips': '06_practical_applications_and_tool_tips.md'
-  - 'Activities': '07_activities.md'
-  - 'Conclusion': '08_conclusion.md'
-  - 'References': '09_references.md'
-  - 'Appendix': '10_appendix.md'
-  - 'Prompt Library': '11_prompt_library.md'
+  - "Home": "index.md"
+  - "Introduction": "00_introduction.md"
+  - "Understanding AI Basics": "01_understanding_ai_basics.md"
+  - "First Principles Thinking": "02_first_principles_thinking.md"
+  - "Chain of Thought Prompting": "03_chain_of_thought_prompting.md"
+  - "Meta Prompting": "04_meta_prompting.md"
+  - "Results Verification": "05_results_verification.md"
+  - "Practical Applications and Tool Tips": "06_practical_applications_and_tool_tips.md"
+  - "Activities": "07_activities.md"
+  - "Conclusion": "08_conclusion.md"
+  - "References": "09_references.md"
+  - "Appendix": "10_appendix.md"
+  - "Prompt Library": "11_prompt_library.md"
