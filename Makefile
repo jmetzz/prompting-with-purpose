@@ -8,6 +8,7 @@ help:
 install: ## Install project dependencies using uv
 	@echo "Installing dependencies..."
 	@uv sync --extra dev
+	@uv run pre-commit install
 
 dev: install ## Run the MkDocs development server
 	@echo "Starting MkDocs development server..."
