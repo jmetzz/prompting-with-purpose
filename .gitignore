@@ -1,2 +1,4 @@
+.*
+site/
 !.github
 !.pre-commit-config.yaml
