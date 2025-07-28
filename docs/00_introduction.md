@@ -8,9 +8,9 @@ This crash course is designed to take you from a casual user to a confident AI u
 
 We'll cut through the jargon and show you the three key techniques that will transform how you use AI:
 
-1.  **First Principles Thinking:** Learn to ask for what you _really_ want.
-2.  **Chain of Thought Prompting:** Guide the AI step-by-step to get better, more accurate results.
-3.  **Meta-Prompting:** Get the AI to help you write better prompts.
+1. **First Principles Thinking:** Learn to ask for what you _really_ want.
+2. **Chain of Thought Prompting:** Guide the AI step-by-step to get better, more accurate results.
+3. **Meta-Prompting:** Get the AI to help you write better prompts.
 
 We'll use real-world examples and introduce you to Alex, a creative professional who is learning right alongside you. By the end of this course, you'll have a powerful new skillset to help you in your daily work, studies, and even your personal life.
 

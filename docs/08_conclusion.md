@@ -11,4 +11,4 @@ The world of AI is constantly evolving, but these core principles of effective p
 
 Remember, AI is a powerful assistant, and with your newfound prompting skills, you're now equipped to unlock its full potential to enhance your work, studies, and personal life. Happy prompting!
 
-For a comprehensive list of references, please refer to the [References section](10_references.md).
+For a comprehensive list of references, please refer to the [References section](09_references.md).
