@@ -1,8 +1,47 @@
-[tool.ruff]
-line-length = 88
+[project]
+name = "ai-prompting-crash-course"
+version = "0.1.0"
+description = "A crash course on AI prompting for non-technical students."
+authors = [
+    {name = "Jean Metz", email = "4632809+username@users.noreply.github.com"},
+]
+license = {text = "MIT"}
+readme = "README.md"
+requires-python = ">=3.13"
+keywords = ["ai", "prompting", "course", "education"]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Education",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.13",
+    "Topic :: Education",
+]
+dependencies = [
+    "mkdocs>=1.6.1",
+    "mkdocs-material>=9.6.16",
+]
 
-[tool.ruff.lint]
-select = ["E", "F", "I"]
+[project.optional-dependencies]
+dev = [
+    "commitizen>=4.8.3",
+    "pre-commit>=4.2.0",
+]
 
-[tool.ruff.format]
-quote-style = "double"
+
+[tool.commitizen]
+name = "cz_conventional_commits"
+version = "0.1.0"
+tag_format = "v$version"
+version_files = [
+    "pyproject.toml:version"
+]
+style = [
+    ["question", "fg:cyan"],
+    ["question_style", "bold"],
+    ["answer", "fg:green"],
+    ["answer_style", "bold"],
+    ["pointer", "fg:yellow"],
+    ["highlighted_pointer", "fg:yellow bold"],
+    ["instruction", "fg:white"],
+]
