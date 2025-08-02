@@ -1,5 +1,5 @@
-!!! tip "Isaac Asimov"
-    The most exciting phrase to hear in science, the one that heralds new discoveries, is not 'Eureka!' but 'That's funny...'
+!!! tip ""
+    > "The most exciting phrase to hear in science, the one that heralds new discoveries, is not 'Eureka!' but 'That's funny...'" _Isaac Asimov_
 
 ## Chapter 1: Understanding AI Basics & What a 'Prompt' Really Is
 
@@ -11,7 +11,7 @@ Before we dive into advanced techniques, let's ensure we're all on the same page
 
 - **Large Language Models (LLMs):** Think of an LLM as a super-smart language expert who has read almost everything ever written—books, articles, conversations. Because of this massive reading, LLMs like **ChatGPT** and **Google Gemini** are incredibly good at understanding your questions and generating human-like text. They can write stories, answer questions, summarize complex topics, and even hold conversations.
 
-- **Generative AI:** This is the exciting part! Generative AI isn't just about finding existing information; it's about _creating_ something entirely new. Whether it's writing a fresh email, brainstorming unique ideas, or even designing an image, generative AI uses what it has learned to produce original content. It's like having a creative assistant who can whip up something new on demand!
+  - **Generative AI:** This is the exciting part! Generative AI isn't just about finding existing information; it's about _creating_ something entirely new. Whether it's writing a fresh email, brainstorming unique ideas, or even designing an image, generative AI uses what it has learned to produce original content. It's like having a creative assistant who can whip up something new on demand!
 
 ### 1.2 The Prompt: Your Instructions to the AI
 
@@ -21,17 +21,29 @@ A **prompt** is fundamentally different. It's like giving detailed, precise inst
 
 Consider the difference:
 
-- **If you use a search query:** "beginner gardening tips"
-  - _You get:_ A list of websites about gardening tips.
+!!! question "If you use a search query:"
+    "beginner gardening tips"
 
-- **If you use a prompt (for Generative AI):**
+    _You get_ a list of websites about gardening tips.
 
-  > **Alex asks Cortex:**
-  >
-  > ```
-  > Act as an expert botanist and a friendly community educator. I'm creating a flyer for a new community garden workshop aimed at absolute beginners. Generate a list of 5 encouraging and simple bullet points for the flyer that highlight the key benefits of attending. The tone should be welcoming and not intimidating.
-  > ```
-  >
-  > _You get:_ Five custom-written bullet points, perfectly tailored for your flyer, in the right tone, and from the perspective of an expert.
+!!! example "If you use a prompt (for Generative AI)"
+    **Alex asks Cortex:**
+    >
+    > Act as an expert botanist and a friendly community educator. I'm creating a flyer for a new community garden workshop aimed at absolute beginners. Generate a list of 5 encouraging and simple bullet points for the flyer that highlight the key benefits of attending. The tone should be welcoming and not intimidating.
+    >
 
-See how Alex's prompt provides a **role** for Cortex, the **context** (a flyer for beginners), **specific requirements** (5 bullet points), and a desired **tone**? This level of detail guides the AI's creative and analytical abilities to produce exactly what you need. It's why we talk about "prompt engineering" – you're _engineering_ the AI's response by **crafting precise, thoughtful instructions**. The more clearly and completely you communicate your intent, the better Cortex can assist you, transforming it from a mere search tool into a true copilot.
+    _You get_ five custom-written bullet points, perfectly tailored for your flyer, in the right tone, and from the perspective of an expert.
+
+    ??? success "Real answer from ChatGPT"
+
+        Here are 5 welcoming and beginner-friendly bullet points you can use for your community garden workshop flyer:
+
+        - 🌱 No green thumb needed! We’ll start with the absolute basics—perfect for total beginners.
+        - 🌞 Grow your own food and enjoy fresh herbs, veggies, and fruits from your own hands.
+        - 🌼 Connect with nature and learn how gardening boosts well-being, step by step.
+        - 👩‍🌾 Meet your neighbors and join a friendly group that shares tips, tools, and laughs.
+        - 💧 Hands-on & fun! Learn by doing in a relaxed, no-pressure environment.
+
+        Let me know if you’d like a version for kids, families, or a different theme!
+
+See how Alex's prompt provides a `role` for Cortex, the `context` (a flyer for beginners), `specific requirements` (5 bullet points), and a desired `tone`? This level of detail guides the AI's creative and analytical abilities to produce exactly what you need. It's why we talk about "prompt engineering" – you're _engineering_ the AI's response by **crafting precise, thoughtful instructions**. The more clearly and completely you communicate your intent, the better Cortex can assist you, transforming it from a mere search tool into a true copilot.

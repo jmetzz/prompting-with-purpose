@@ -1,5 +1,5 @@
-!!! tip "Heraclitus (Ancient Greek philosopher, c. 500 BCE)"
-    Change is the only constant.
+!!! tip ""
+    > "Change is the only constant." _Heraclitus_ (Ancient Greek philosopher, c. 500 BCE).
 
 ## Chapter 8: Conclusion – Your AI Copilot Journey Continues
 

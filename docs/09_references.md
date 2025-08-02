@@ -1,5 +1,5 @@
-!!! tip "Isaac Asimov"
-    Self-education is, I firmly believe, the only kind of education there is.
+!!! tip ""
+    > "Self-education is, I firmly believe, the only kind of education there is." _Isaac Asimov_.
 
 # References for AI Prompting Crash Course
 
@@ -39,22 +39,31 @@ This section provides a consolidated list of reputable resources for further lea
 
 ## AI Tool Specific Resources
 
-- **ChatGPT / OpenAI:**
-  - [ChatGPT Capabilities Overview](https://help.openai.com/en/articles/9260256-chatgpt-capabilities-overview)
-  - [ChatGPT Projects](https://help.openai.com/en/articles/10169521-projects-in-chatgpt)
-  - [ChatGPT Custom Instructions FAQ](https://help.openai.com/en/articles/8096356-chatgpt-custom-instructions-faq)
-  - [ChatGPT Record](https://help.openai.com/en/articles/11487532-chatgpt-record)
-  - [ChatGPT Temporary Chat](https://help.openai.com/en/articles/8914046-temporary-chat-faq)
-  - [Creating images in ChatGPT](https://help.openai.com/en/articles/8932459-creating-images-in-chatgpt)
-  - [What is the canvas feature in ChatGPT and how do I use it?](https://help.openai.com/en/articles/9930697-what-is-the-canvas-feature-in-chatgpt-and-how-do-i-use-it)
-  - [ChatGPT Enterprise Models & Limits](https://help.openai.com/en/articles/11165333-chatgpt-enterprise-models-limits)
-- **Google Gemini / Google AI:**
-  - [Google Prompting Essentials - Google Developers](https://developers.google.com/machine-learning/practica/prompt-engineering)
-- **Anthropic Claude:**
-  - [Prompt Engineering Guide - Anthropic](https://docs.anthropic.com/claude/docs/prompt-engineering)
-  - [Use examples (multishot prompting) to guide Claude's behavior - Anthropic](https://docs.anthropic.com/claude/docs/use-examples-multishot-prompting)
-- **IBM Watsonx.ai:**
-  - [IBM Watsonx.ai Prompt Engineering Guide](https://www.ibm.com/docs/en/watsonx-ai/1.0?topic=prompt-engineering-guide)
-- **Microsoft Copilot / Azure OpenAI:**
-  - [Prompt Engineering for Microsoft Copilot - Microsoft](https://www.microsoft.com/en-us/microsoft-365/blog/2023/03/16/prompt-engineering-for-microsoft-copilot/)
-  - [Prompt Engineering - Microsoft Azure OpenAI Service](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/prompt-engineering)
+### ChatGPT / OpenAI
+
+- [ChatGPT Capabilities Overview](https://help.openai.com/en/articles/9260256-chatgpt-capabilities-overview)
+- [ChatGPT Projects](https://help.openai.com/en/articles/10169521-projects-in-chatgpt)
+- [ChatGPT Custom Instructions FAQ](https://help.openai.com/en/articles/8096356-chatgpt-custom-instructions-faq)
+- [ChatGPT Record](https://help.openai.com/en/articles/11487532-chatgpt-record)
+- [ChatGPT Temporary Chat](https://help.openai.com/en/articles/8914046-temporary-chat-faq)
+- [Creating images in ChatGPT](https://help.openai.com/en/articles/8932459-creating-images-in-chatgpt)
+- [What is the canvas feature in ChatGPT and how do I use it?](https://help.openai.com/en/articles/9930697-what-is-the-canvas-feature-in-chatgpt-and-how-do-i-use-it)
+- [ChatGPT Enterprise Models & Limits](https://help.openai.com/en/articles/11165333-chatgpt-enterprise-models-limits)
+
+### Google Gemini / Google AI
+
+- [Google Prompting Essentials - Google Developers](https://developers.google.com/machine-learning/practica/prompt-engineering)
+
+### Anthropic Claude
+
+- [Prompt Engineering Guide - Anthropic](https://docs.anthropic.com/claude/docs/prompt-engineering)
+- [Use examples (multishot prompting) to guide Claude's behavior - Anthropic](https://docs.anthropic.com/claude/docs/use-examples-multishot-prompting)
+
+### IBM Watsonx.ai
+
+- [IBM Watsonx.ai Prompt Engineering Guide](https://www.ibm.com/docs/en/watsonx-ai/1.0?topic=prompt-engineering-guide)
+
+### Microsoft Copilot / Azure OpenAI
+
+- [Prompt Engineering for Microsoft Copilot - Microsoft](https://www.microsoft.com/en-us/microsoft-365/blog/2023/03/16/prompt-engineering-for-microsoft-copilot/)
+- [Prompt Engineering - Microsoft Azure OpenAI Service](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/prompt-engineering)

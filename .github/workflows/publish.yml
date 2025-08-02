@@ -21,10 +21,18 @@ jobs:
         run: pip install uv
 
       - name: Install dependencies
-        run: uv pip install mkdocs mkdocs-material pre-commit
+        run: uv pip install .[dev]
 
       - name: Run pre-commit hooks
         run: pre-commit run --all-files
+
+      - name: Commit changes from pre-commit (if any)
+        if: success()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git diff-index --quiet HEAD || git commit -m "chore: pre-commit auto-fixes"
 
       - name: Build MkDocs site
         run: mkdocs build

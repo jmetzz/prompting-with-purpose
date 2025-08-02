@@ -1,5 +1,5 @@
-!!! tip "Isaac Asimov (Attributed)"
-    The true beauty of the universe lies in its complexity, not its simplicity.
+!!! tip ""
+    > "The true beauty of the universe lies in its complexity, not its simplicity." _Isaac Asimov_ (Attributed).
 
 # AI Prompting Crash Course: Using AI as a Copilot
 

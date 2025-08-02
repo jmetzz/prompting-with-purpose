@@ -2,6 +2,6 @@ This project is a crash course on AI prompting for non-technical students. The g
 
 The emphasis is firmly on prompting techniques, with search functionality presented as a complementary tool that enhances the prompting process (e.g., for gathering context or verifying output), rather than a standalone focus. More specifically on these three techniques:
 
-1. First Principles Thinking applyied to AI prompting engineering
+1. First Principles Thinking applied to AI prompting engineering
 2. Chain of Thought
 3. Meta-prompting

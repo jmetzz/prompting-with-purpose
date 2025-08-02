@@ -1,5 +1,5 @@
-!!! tip "Paul Halmos (I Want to Be a Mathematician, 1985)"
-    The only way to learn mathematics is to do mathematics.
+!!! tip ""
+    > "The only way to learn mathematics is to do mathematics." _Paul Halmos_ (I Want to Be a Mathematician, 1985).
 
 ## Chapter 7: Practice Scenarios – Putting Your Prompting Skills to Work
 
