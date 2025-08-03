@@ -1,4 +1,8 @@
 
+> **Note:** The following prompts are simplified examples and have been kept short to avoid overextending the course material. When using them, remember to apply the `FAIR` and `RISK` frameworks from the [Ethical Use of AI](ethical_use_of_ai.md) chapter to ensure your prompts are responsible and just.
+
+---
+
 ## Business & Productivity Prompts
 
 !!! example "Turn AI into Your Intern (Research Report)"
@@ -21,6 +25,12 @@
 
     You are a hiring strategist. Based on my company’s current size, product stage, and growth plans (details below), who should we hire next—and why?
 
+    !!! warning "Ethical Checkpoint"
+        This prompt involves a high-stakes decision. Before acting on the AI's suggestion, apply the **RISK** framework.
+        - **Relevance & Knowledge Gap:** Is the AI's model of a "good hire" appropriate for your specific company culture and needs? Are you over-relying on its analysis?
+        - **Integrity & Sensitivity:** Ensure the criteria you provide are fair and unbiased.
+        - **Action:** Always use the AI's output as one data point among many. The final decision should be made by human stakeholders. For more, see the [Ethical Use of AI](ethical_use_of_ai.md) chapter.
+
 !!! example "Drive Accountability & Ownership"
 
     You are a leadership advisor. I’m seeing low accountability on my team. Suggest 3 changes in how we assign work, track progress, and encourage ownership.
@@ -32,6 +42,12 @@
 !!! example "Make Difficult Conversations Less Difficult"
 
     You are an executive coach. I need to have a difficult conversation with [role or person]. Help me clarify the key message, anticipate responses, and rehearse options.
+
+    !!! warning "Ethical Checkpoint: Privacy"
+        This prompt can be very effective, but be mindful of privacy.
+        - **Do not share confidential or personally identifiable information** about the other person.
+        - Keep the details general and focus on the communication strategy, not sensitive personal data.
+        - Refer to the **FAIR** framework's principles of **Rights** and **Impact** in the [Ethical Use of AI](ethical_use_of_ai.md) chapter.
 
 !!! example "Develop Robust Growth Strategy"
 

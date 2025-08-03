@@ -1,3 +1,6 @@
+> **Note:** The following prompts are simplified examples and have been kept short to avoid overextending the course material. When using them, remember to apply the `FAIR` and `RISK` frameworks from the [Ethical Use of AI](ethical_use_of_ai.md) chapter to ensure your prompts are responsible and just.
+
+---
 ## Learning & Study Prompts
 
 !!! example "Learn Faster (80/20 Principle)"

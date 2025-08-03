@@ -497,6 +497,12 @@ Alex wants to convert a traditional family recipe (e.g., cookies) from imperial 
 
 Alex has received two job offers (Offer A and Offer B) and needs help evaluating them to make an informed decision. The choice involves more than just comparing salaries—it’s about long-term fit, growth, and personal priorities.
 
+!!! warning "Ethical Checkpoint"
+    This scenario involves a high-stakes decision. Before acting on the AI's suggestion, apply the **RISK** framework.
+    - **Relevance & Knowledge Gap:** Is the AI's analysis truly relevant to your personal priorities? Are you assuming it knows more about you or the companies than it does?
+    - **Integrity & Sensitivity:** This is a deeply personal and sensitive decision. Use the AI as a tool to structure your thinking, not to make the choice for you.
+    - **Action:** Always use the AI's output as a brainstorming aid. The final decision must be yours, based on your own judgment and, if possible, conversations with trusted mentors or advisors. For more, see the [Ethical Use of AI](ethical_use_of_ai.md) chapter.
+
 **Your Practice Task:** You know the drill, apply First Principles Thinking, prompt design with CoT, and Meta-prompting to support Alex in making this decision.
 
 1. **First Principles:** What truly matters in a job decision beyond salary? Consider things like work-life balance, growth potential, culture, location, team dynamics, and values alignment. Identify the core decision-making criteria.
@@ -514,6 +520,12 @@ Alex has received two job offers (Offer A and Offer B) and needs help evaluating
 ### Scenario 6: Investment Research & Due Diligence
 
 Alex is considering investing in a public company (e.g., “GreenGrow Inc.”) and wants to make an informed decision. He needs to quickly gather and synthesize both financial and non-financial insights to assess whether it’s a good fit.
+
+!!! warning "Ethical Checkpoint"
+    This scenario involves high-stakes financial decisions. Before acting on any AI-generated analysis, apply the **RISK** framework.
+    - **Relevance & Knowledge Gap:** Financial data can be complex and time-sensitive. Are you assuming the AI has access to the latest information or a deep understanding of market dynamics?
+    - **Integrity & Sensitivity:** Investment decisions have real financial consequences. Do not rely solely on an AI for financial advice.
+    - **Action:** Use AI as a starting point for research, but always verify data with reputable financial sources (e.g., official company filings, established financial news sites) and consider consulting a qualified human financial advisor. For more, see the [Ethical Use of AI](ethical_use_of_ai.md) chapter.
 
 **Your Practice Task:** Use your toolkit and techniques to guide Cortex helping Alex through this decision-making process.
 

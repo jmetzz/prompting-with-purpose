@@ -1,3 +1,7 @@
+> **Note:** The following prompts are simplified examples and have been kept short to avoid overextending the course material. When using them, remember to apply the `FAIR` and `RISK` frameworks from the [Ethical Use of AI](ethical_use_of_ai.md) chapter to ensure your prompts are responsible and just.
+
+---
+
 ## Writing & Content Creation Prompts
 
 !!! example "Improve Your Writing (Feedback)"
@@ -7,6 +11,11 @@
 !!! example "Write in Your Style"
 
     You are a voice mimic. Here’s a sample of my writing. Use it to respond to [insert question or task] in my tone and style.
+
+    !!! warning "Ethical Checkpoint: Attribution & Plagiarism"
+        This prompt is powerful for maintaining a consistent voice, but it comes with ethical responsibilities.
+        - **Integrity & Attribution:** Presenting AI-generated text as your own without acknowledgment can be considered plagiarism in academic and professional settings.
+        - **Action:** Always be transparent about the use of AI in your work. If you are a student, check your institution's academic integrity policy. The goal is to use AI as a copilot, not a ghostwriter. For more, see the [Ethical Use of AI](ethical_use_of_ai.md) chapter.
 
 !!! example "Summarize Documents/Articles"
 
