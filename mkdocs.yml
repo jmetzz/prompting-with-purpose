@@ -3,6 +3,7 @@ theme:
   name: material
   features:
     - content.code.copy
+    - navigation.footer
   palette:
     - scheme: default
       primary: indigo
@@ -47,20 +48,32 @@ markdown_extensions:
   - pymdownx.tabbed
 nav:
   - "Home": "index.md"
-  - "Introduction": "00_introduction.md"
-  - "Understanding AI Basics": "01_understanding_ai_basics.md"
-  - "First Principles Thinking": "02_first_principles_thinking.md"
-  - "Chain of Thought Prompting": "03_chain_of_thought_prompting.md"
-  - "Meta Prompting": "04_meta_prompting.md"
-  - "Results Verification": "05_results_verification.md"
-  - "Practical Applications and Tool Tips": "06_practical_applications_and_tool_tips.md"
-  - "Activities": "07_activities.md"
-  - "Conclusion": "08_conclusion.md"
-  - "References": "09_references.md"
+  - "Introduction": "introduction.md"
+
+  - "Foundations":
+      - "Understanding AI Basics": "understanding_ai_basics.md"
+
+  - "Core Techniques":
+      - "First Principles Thinking": "first_principles_thinking.md"
+      - "Chain of Thought Prompting": "chain_of_thought_prompting.md"
+      - "Meta Prompting": "meta_prompting.md"
+
+  - "Responsible AI Use":
+      - "Verify Your Results": "results_verification.md"
+      - "Ethical Use of AI": "ethical_use_of_ai.md"
+
+  - "Practical Guidance":
+      - "Practical Applications and Tool Tips": "practical_applications_and_tool_tips.md"
+      - "Activities": "activities.md"
+
+  - "Wrap-Up":
+      - "Conclusion": "conclusion.md"
+      - "References": "references.md"
+
   - "Appendix":
-      - "Advanced Prompting Topics": "10_appendix.md"
+      - "Advanced Prompting Topics": "appendix.md"
       - "Prompt Library":
-          - "Writing Prompts": "11a_writing_prompts.md"
-          - "Learning Prompts": "11b_learning_prompts.md"
-          - "Problem Solving": "11c_problem_solving_prompts.md"
-          - "Business prompts": "11d_business_prompts.md"
+          - "Writing Prompts": "a_writing_prompts.md"
+          - "Learning Prompts": "b_learning_prompts.md"
+          - "Problem Solving": "c_problem_solving_prompts.md"
+          - "Business Prompts": "d_business_prompts.md"

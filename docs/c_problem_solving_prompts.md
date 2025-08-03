@@ -15,4 +15,4 @@
 
 ---
 
-[🔙 Prompt Library Overview](11_prompt_library.md)
+[🔙 Prompt Library Overview](prompt_library.md)

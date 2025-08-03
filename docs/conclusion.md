@@ -16,6 +16,6 @@ These techniques aren't just academic—they're practical tools to help you thin
 
 From here, the next step is practice. Use what you've learned. Try the activities again with a new angle. Apply the techniques to real tasks in your studies or work. Every prompt you write is an opportunity to get better.
 
-Don't forget to check the [Prompt Library](11_prompt_library.md) for ready-to-use examples, and explore the [Advanced Topics](10_appendix.md) when you're ready to go deeper.
+Don't forget to check the [Prompt Library](prompt_library.md) for ready-to-use examples, and explore the [Advanced Topics](appendix.md) when you're ready to go deeper.
 
 AI is your copilot—where you go next is up to you.

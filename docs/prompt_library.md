@@ -13,7 +13,7 @@ This helps you get more reliable, focused results—whether you're writing, lear
 
 ## Explore Prompt Categories
 
-- [Writing & Content Creation](11a_writing_prompts.md)
-- [Learning & Study](11b_learning_prompts.md)
-- [Problem Solving & Decisions](11c_problem_solving_prompts.md)
-- [Business & Productivity](11d_business_prompts.md)
+- [Writing & Content Creation](a_writing_prompts.md)
+- [Learning & Study](b_learning_prompts.md)
+- [Problem Solving & Decisions](c_problem_solving_prompts.md)
+- [Business & Productivity](d_business_prompts.md)

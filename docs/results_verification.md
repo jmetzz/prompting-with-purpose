@@ -8,7 +8,7 @@ This chapter will teach you a simple framework to quickly and effectively verify
 !!! danger "Verify Your Results"
     Trust, But Always Check
 
-# Why Verification is Crucial
+## Why Verification is Crucial
 
 Briefly, you need to check the AI's work for three main reasons:
 
