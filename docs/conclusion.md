@@ -19,3 +19,15 @@ From here, the next step is practice. Use what you've learned. Try the activitie
 Don't forget to check the [Prompt Library](prompt_library.md) for ready-to-use examples, and explore the [Advanced Topics](appendix.md) when you're ready to go deeper.
 
 AI is your copilot—where you go next is up to you.
+
+!!! tip "One Last Thing..."
+
+    > "The best way to predict the future is to invent it." — Alan Kay
+
+    It seems only [FAIR](ethical_use_of_ai.md#the-fair-framework) to let you in on a little secret.
+
+    This entire crash course—from the explanations and examples to Alex's gardening adventures—was created by an AI, guided by a human copilot. We hope it serves as a practical demonstration of what's possible when you team up with an AI.
+
+    The ultimate meta-prompt, if you will.
+
+    Now go build something amazing. Your copilot is ready.
