@@ -1,12 +1,12 @@
 !!! tip ""
     > "The only way to learn mathematics is to do mathematics." _Paul Halmos_ (I Want to Be a Mathematician, 1985).
 
-## Chapter 7: Practice Scenarios – Putting Your Prompting Skills to Work
+**Putting Your Prompting Skills to Work**
 
 These challenges are designed to help you apply First Principles Thinking, Chain of Thought, Meta-prompting, and leverage the unique capabilities of various AI tools for real-world tasks.
 
 !!! warning "Remember"
-    I’ve included a full example walkthrough for the first activity—but try it yourself before reading the answer! That’s where the real learning happens :)
+    I’ve included a full example walkthrough for the first activity—but try it yourself before reading the answer! That’s where the real learning happens ☺️
 
 ### Scenario 1: Researching Workshop Sponsors & Grants
 

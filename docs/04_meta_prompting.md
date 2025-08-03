@@ -1,11 +1,11 @@
 !!! tip ""
     > "The first principle is that you must not fool yourself—and you are the easiest person to fool." _Richard Feynman_ (Caltech commencement speech, 1974).
 
-## Chapter 4: Exploring Meta-prompting – Letting AI Help You Prompt Better
+**Letting AI Help You Prompt Better.**
 
 You've mastered crafting detailed prompts (First Principles) and guiding AI through steps (Chain of Thought). Now, let's explore a concept that truly elevates your AI interaction to a collaborative partnership: **Meta-prompting**.
 
-### 4.1 What is Meta-prompting, and Why is it so Powerful?
+## What is Meta-prompting, and Why is it so Powerful?
 
 Imagine having a "prompt coach" or a "strategy consultant" built right into Cortex. Instead of just asking Cortex to complete a task, Alex is asking it to help figure out the _best way to ask for that task_. This is the core of meta-prompting.
 
@@ -36,7 +36,7 @@ In this analogy:
 
 By asking the expert (the carpenter) what they need, Alex is ensuring that the final product is exactly what they envisioned. This is the same principle as meta-prompting.
 
-### 4.2 Practical Example: Using Meta-prompting for Workshop Promotional Content
+## Practical Example: Using Meta-prompting for Workshop Promotional Content
 
 Remember how Alex is organizing the "Beginner's Urban Gardening Workshop"? Alex needs to create various promotional materials – social media posts, email announcements, flyer bullet points. While Alex could write individual prompts for each, Meta-prompting can help design one super-prompt that handles most, or even all, of it accurately.
 
@@ -103,7 +103,7 @@ Now, Alex can use this single, powerful prompt. By simply pasting the workshop d
 
 This demonstrates how **Meta-prompting** empowers us to not just use the AI, but to collaborate _with_ AI to become a better, more efficient user. It's truly a leap from "command-based" interaction to a sophisticated "copilot" level.
 
-### 4.3 Tying it All Together: The Prompting Power Trio
+## Tying it All Together: The Prompting Power Trio
 
 ```mermaid
 flowchart TD

@@ -1,11 +1,9 @@
 !!! tip ""
     > "The important thing is not to stop questioning. Curiosity has its own reason for existence." _Albert Einstein_ (LIFE Magazine, 1955).
 
-## Chapter 2: First Principles Thinking for Prompting
-
 This might sound like a fancy academic term, but "First Principles Thinking" is an incredibly powerful and practical approach that will transform how you write prompts. It's about getting to the root of your request before you even start typing.
 
-### 2.1 Breaking Down the Problem to its Core
+## Breaking Down the Problem to its Core
 
 Imagine Alex wants to grow a thriving vegetable garden. Instead of just looking at a beautiful garden and trying to copy its exact layout, First Principles Thinking means Alex goes back to the absolute basics. Alex thinks about: _What does a garden fundamentally need to thrive? Sunlight? Water? What kind of soil? What plants will grow best in this specific environment?_ Alex builds understanding from the ground up, based on core truths about gardening, rather than just copying or modifying existing designs.
 
@@ -18,7 +16,7 @@ Applying this to AI prompting means, instead of trying to find an existing promp
 
 By thinking this way _before_ Alex even starts writing the prompt, Alex ensures Cortex receives exactly what it needs, avoiding vague instructions that lead to generic or off-target responses. It's like a seasoned gardener meticulously planning a garden layout, considering every plant's needs and the available space, before putting the first seed in the ground.
 
-### 2.2 Key Components of an Effective Prompt
+## Key Components of an Effective Prompt
 
 When you apply First Principles Thinking, you'll naturally identify these essential ingredients that go into a truly robust prompt. Think of these components as giving Cortex a very clear recipe, not just a vague idea.
 
@@ -55,7 +53,7 @@ flowchart LR
 
 ---
 
-#### Goal or Task
+### Goal or Task
 
 > What exactly do you want Cortex to _do_?
 
@@ -174,7 +172,7 @@ This is the most crucial part. Be specific, actionable, and outcome-oriented.
 
 ---
 
-#### Context
+### Context
 
 > What background information does Cortex need?
 
@@ -236,7 +234,7 @@ The prompt:
 
 ---
 
-#### Constraints/Rules
+### Constraints/Rules
 
 > What boundaries, limitations, or specific instructions must Cortex follow?
 
@@ -254,7 +252,7 @@ Assuming Alex is asking Cortex to help organizing the this year's workshop, you 
 
 ---
 
-#### Format
+### Format
 
 > How do you want Cortex's output to be structured?
 
@@ -271,7 +269,7 @@ This dictates the structure and tone precisely.
 
 ---
 
-#### Persona
+### Persona
 
 > Should Cortex adopt a specific role or character?
 
@@ -285,7 +283,7 @@ This is optional but powerful.
 
 ---
 
-### Activity: Deconstructing a Prompt
+## Activity: Deconstructing a Prompt
 
 !!! quote ""
     Let’s practice identifying these components.

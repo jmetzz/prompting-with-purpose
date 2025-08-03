@@ -1,11 +1,9 @@
 !!! tip ""
     > "The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom." _Isaac Asimov_
 
-## Chapter 3: Mastering Chain of Thought Prompting – Guiding AI's Reasoning
-
 You've learned how to craft a detailed, single prompt. Now, let's unlock another powerful technique: **Chain of Thought (CoT) prompting**. This is where you transform the AI from a simple responder into a true problem-solving partner, especially for complex tasks like detailed research, brainstorming intricate ideas, or validating multi-faceted concepts.
 
-### 3.1 The Power of Step-by-Step Thinking
+## The Power of Step-by-Step Thinking
 
 Imagine you're solving a complex problem or planning a big project. You don't just jump to the final answer, do you? You break it down into smaller, manageable steps: _first, I'll do this; then, based on that result, I'll do this next; and so on._
 
@@ -36,7 +34,7 @@ Imagine you're solving a complex problem or planning a big project. You don't ju
     3. **If it's good, move to the next step.**
     4. **If it's not quite right, give a corrective instruction in your next prompt.** For example, you could say, "That's a good start, but for the next step, please focus more on..." or "In the list you just gave me, please remove the incorrect items before we move on."
 
-### 3.2 Connecting Chain of Thought to First Principles
+## Connecting Chain of Thought to First Principles
 
 Chain of Thought prompting is the natural extension of First Principles Thinking. Once you've used First Principles to identify the core components of your request (your goal, context, constraints, and desired format), you can use Chain of Thought to guide the AI through each of those components in a logical sequence.
 
@@ -47,7 +45,7 @@ Think of it this way:
 
 By combining these two techniques, you can create prompts that are not only well-structured and clear, but also guide the AI to produce the best possible output.
 
-### 3.3 Practical Example: Creating a Plant Care Guide with Chain of Thought
+## Practical Example: Creating a Plant Care Guide with Chain of Thought
 
 Let's illustrate CoT with a real-world problem Alex faces: creating a comprehensive, easy-to-follow care guide for cherry tomatoes for beginners. This task requires gathering information, organizing it logically, and presenting it clearly – a perfect fit for CoT.
 
@@ -58,7 +56,7 @@ If Alex just asks Cortex, "Give me a care guide for cherry tomatoes," (1) the re
 
 Here’s how Alex would approach this using a Chain of Thought:
 
-#### Step 1: Initial Information Gathering and Extraction
+### Step 1: Initial Information Gathering and Extraction
 
 The very first step is for Alex to get Cortex to simply understand and pull out the raw, essential care information, without trying to format it yet.
 
@@ -80,7 +78,7 @@ The very first step is for Alex to get Cortex to simply understand and pull out 
      - Harvest when fruits are fully colored and slightly soft.
      - Pinch off suckers for better yield.
 
-#### Step 2: Information Organization and Simplification
+### Step 2: Information Organization and Simplification
 
 Now that Alex has the raw data, the next logical step is to organize it into a beginner-friendly structure and simplify any complex terms.
 
@@ -117,7 +115,7 @@ Now that Alex has the raw data, the next logical step is to organize it into a b
     **Harvesting Your Cherry Tomatoes**
     - Pick your cherry tomatoes when they are fully colored and feel a little soft when gently squeezed.
 
-#### Step 3: Final Formatting and Introduction
+### Step 3: Final Formatting and Introduction
 
 With the information organized and simplified, Alex is ready for the final touch: adding a friendly introduction and formatting the entire guide for the workshop handout.
 

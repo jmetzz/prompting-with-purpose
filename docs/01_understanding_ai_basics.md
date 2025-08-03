@@ -1,11 +1,9 @@
 !!! tip ""
     > "The most exciting phrase to hear in science, the one that heralds new discoveries, is not 'Eureka!' but 'That's funny...'" _Isaac Asimov_
 
-## Chapter 1: Understanding AI Basics & What a 'Prompt' Really Is
-
 Before we dive into advanced techniques, let's ensure we're all on the same page with some foundational concepts.
 
-### 1.1 What are AI, LLMs, and Generative AI?
+## What are AI, LLMs, and Generative AI?
 
 - **Artificial Intelligence (AI):** Imagine teaching a computer to think and learn like a human. That's AI! It's about machines doing smart things, like understanding what you say, recognizing faces, or solving tricky problems.
 
@@ -13,7 +11,7 @@ Before we dive into advanced techniques, let's ensure we're all on the same page
 
   - **Generative AI:** This is the exciting part! Generative AI isn't just about finding existing information; it's about _creating_ something entirely new. Whether it's writing a fresh email, brainstorming unique ideas, or even designing an image, generative AI uses what it has learned to produce original content. It's like having a creative assistant who can whip up something new on demand!
 
-### 1.2 The Prompt: Your Instructions to the AI
+## The Prompt: Your Instructions to the AI
 
 You're used to typing a "search query" into Google: "community garden ideas" or "how to grow tomatoes." A search engine's job is to point you to _existing_ information – articles, websites, and videos.
 

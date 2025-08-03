@@ -1,13 +1,13 @@
 !!! tip ""
     > "Any sufficiently advanced technology is indistinguishable from magic." _Arthur C. Clarke_ (Profiles of the Future, 1962).
 
-## Chapter 6: Leveraging AI Tools by Type – Choosing Your Copilot Wisely
-
 While the core prompting principles (First Principles, Chain of Thought, Meta-prompting) apply universally, different AI tools excel at different tasks. Understanding their strengths will help you pick the right "copilot" for the job, making your workflow smoother and more effective.
 
 Instead of focusing on specific product names, let's think about AI tools based on what they are best at:
 
-### 6.1 General Conversational AI (e.g., ChatGPT, Google Gemini)
+## General Conversational AI
+
+> e.g., ChatGPT, Google Gemini
 
 These are your versatile, all-around AI assistants. They are excellent for text generation, brainstorming, creative writing, summarization, and general Q&A. They can hold natural conversations and adapt to various tasks.
 
@@ -22,7 +22,9 @@ These are your versatile, all-around AI assistants. They are excellent for text 
 - **Explaining Complex Concepts Simply:** Alex needs to understand the basics of composting for a workshop. Alex can prompt Cortex: "Explain the process of composting in simple terms, suitable for someone with no prior gardening experience."
 - **Creative Writing & Content Generation:** Alex wants to write a short poem about the joy of gardening for a newsletter. Alex can ask Cortex: "Write a short, uplifting poem about the joy of planting and harvesting in a community garden."
 
-### 6.2 Knowledge Management & Source-Grounded AI (e.g., NotebookLM)
+## Knowledge Management & Source-Grounded AI
+
+> e.g., NotebookLM
 
 These tools specialize in working with _your own_ information. Instead of browsing the web, they analyze documents, notes, and data you provide, giving you insights grounded directly in your sources.
 
@@ -40,7 +42,9 @@ These tools specialize in working with _your own_ information. Instead of browsi
 
     While they provide sources, always apply your "SENSE" check (Chapter 5) to critically evaluate the information.
 
-### 6.3 Smart Search & Research AI (e.g., Perplexity AI, Brave search)
+## Smart Search & Research AI
+
+> e.g., Perplexity AI, Brave search
 
 These tools combine the power of AI with real-time web search, providing summarized answers with direct citations to their sources. They are designed for efficient and verifiable information gathering.
 

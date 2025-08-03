@@ -57,5 +57,10 @@ nav:
   - "Activities": "07_activities.md"
   - "Conclusion": "08_conclusion.md"
   - "References": "09_references.md"
-  - "Appendix": "10_appendix.md"
-  - "Prompt Library": "11_prompt_library.md"
+  - "Appendix":
+      - "Advanced Prompting Topics": "10_appendix.md"
+      - "Prompt Library":
+          - "Writing Prompts": "11a_writing_prompts.md"
+          - "Learning Prompts": "11b_learning_prompts.md"
+          - "Problem Solving": "11c_problem_solving_prompts.md"
+          - "Business prompts": "11d_business_prompts.md"
