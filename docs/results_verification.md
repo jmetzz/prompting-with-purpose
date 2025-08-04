@@ -1,5 +1,5 @@
 !!! tip ""
-    > "To see what is in front of one's nose needs a constant struggle." _George Orwell_ (In Front of Your Nose, 1946).
+    > "To see what is in front of one's nose needs a constant struggle." _George Orwell_ (In Front of Your Nose, 1946)
 
 Now that you've learned how to ask Cortex for amazing things, it's time for one of the most important skills: how to check its work. Think of Cortex as the most brilliant intern you've ever had. It's read every book and website, can draft a report in seconds, and never gets tired. However, it has no real-world experience. It might misremember a detail, state an old fact as if it's new, or get overly enthusiastic and make a creative leap that isn't quite right. It's always confident, but not always correct.
 

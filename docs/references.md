@@ -1,5 +1,5 @@
 !!! tip ""
-    > "Self-education is, I firmly believe, the only kind of education there is." _Isaac Asimov_.
+    > "Self-education is, I firmly believe, the only kind of education there is." _Isaac Asimov_
 
 This section provides a consolidated list of reputable resources for further learning in AI prompt engineering. These references are organized by provider or general topic for easy navigation.
 

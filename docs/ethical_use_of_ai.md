@@ -1,8 +1,7 @@
 !!! tip ""
+    > "With great power comes great responsibility." _Spider Man_
 
-    > “With great power comes great responsibility” __Spider Man__.
-
-In [Chapter 5, Results Verification](results_verification.md), you learned how to verify if an AI’s output is accurate using the `SENSE` framework. But truth is only part of the equation. Ethics is about something else: What is the *right* thing to do when using AI—especially when others are affected?
+In [Chapter 5, Results Verification](results_verification.md), you learned how to verify if an AI’s output is accurate using the `SENSE` framework. But truth is only part of the equation. Ethics is about something else: What is the _right_ thing to do when using AI—especially when others are affected?
 
 This chapter introduces two practical frameworks—__FAIR__ and __RISK__—to help you think clearly and act responsibly in real-world situations.
 
@@ -90,7 +89,7 @@ Use this checklist when the AI is influencing a decision, judgment, or recommend
 
 ## Practical Reflection Prompts
 
-- What’s the *worst misuse* of this AI output I can imagine? How do I guard against it?
+- What’s the _worst misuse_ of this AI output I can imagine? How do I guard against it?
 - Would I be comfortable showing this to the person it’s about?
 - Am I hiding the fact that AI helped me?
 

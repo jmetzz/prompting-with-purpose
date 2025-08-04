@@ -1,5 +1,5 @@
 !!! tip ""
-    > "The only way to learn mathematics is to do mathematics." _Paul Halmos_ (I Want to Be a Mathematician, 1985).
+    > "The only way to learn mathematics is to do mathematics." _Paul Halmos_ (I Want to Be a Mathematician, 1985)
 
 **Putting Your Prompting Skills to Work**
 

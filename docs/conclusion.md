@@ -1,5 +1,5 @@
 !!! tip ""
-    > "Change is the only constant." _Heraclitus_ (Ancient Greek philosopher, c. 500 BCE).
+    > "Change is the only constant." _Heraclitus_ (Ancient Greek philosopher, c. 500 BCE)
 
 **Your AI Copilot Journey Continues**
 

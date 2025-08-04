@@ -1,23 +1,18 @@
 !!! tip ""
-    > "The true beauty of the universe lies in its complexity, not its simplicity." _Isaac Asimov_ (Attributed).
+    > "The true beauty of the universe lies in its complexity, not its simplicity." _Isaac Asimov_ (Attributed)
 
-# AI Prompting Crash Course: Using AI as a Copilot
+## Welcome to the AI Prompting Crash Course
 
-Welcome to the AI Prompting Crash Course! This course is designed for non-technical students who want to learn how to effectively use Artificial Intelligence as a copilot in their work.
+Use AI like a thinking **partner**—not just a search box.
 
-## What You'll Learn
+Whether you're planning a project, writing a proposal, exploring a new idea—or trying to spot blind spots before they trip you up—this crash course will teach you how to write prompts that make AI genuinely useful.
 
-This course will guide you through the essential techniques of AI prompting, focusing on practical applications and real-world examples. You'll discover how to:
+You'll learn to:
 
-* **Apply First Principles Thinking to AI Prompting:** Learn to break down complex problems and craft precise, effective prompts.
-* **Master Chain of Thought Prompting:** Guide AI through multi-step reasoning to achieve accurate and reliable results.
-* **Utilize Meta-Prompting:** Collaborate with AI to refine your prompts and optimize your workflow for better outcomes.
-* **Understand Ethical Implications:** Learn to use AI responsibly and be aware of its societal impact.
+- Ask clearly using **First Principles**
+- Think step by step with **Chain of Thought**
+- Iterate and improve through **Meta-Prompting**
 
-## Course Structure
+No technical background needed—just curiosity.
 
-The course is divided into several chapters, each building upon the last to provide a comprehensive understanding of AI prompting. We emphasize hands-on learning, encouraging you to experiment and apply these techniques to your own tasks.
-
-## Get Started
-
-Navigate through the chapters using the sidebar to begin your journey into becoming a proficient AI copilot. Happy prompting!
+👉 Use the sidebar to begin your journey.

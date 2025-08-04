@@ -1,5 +1,5 @@
 !!! tip ""
-    > "Any sufficiently advanced technology is indistinguishable from magic." _Arthur C. Clarke_ (Profiles of the Future, 1962).
+    > "Any sufficiently advanced technology is indistinguishable from magic." _Arthur C. Clarke_ (Profiles of the Future, 1962)
 
 While the core prompting principles (First Principles, Chain of Thought, Meta-prompting) apply universally, different AI tools excel at different tasks. Understanding their strengths will help you pick the right "copilot" for the job, making your workflow smoother and more effective.
 

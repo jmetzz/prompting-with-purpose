@@ -1,5 +1,5 @@
 !!! tip ""
-    > "The free exploring mind of the individual human is the most valuable thing in the world." _John Steinbeck_ (East of Eden, 1952).
+    > "The free exploring mind of the individual human is the most valuable thing in the world." _John Steinbeck_ (East of Eden, 1952)
 
 **How These Prompts Are Designed?**
 

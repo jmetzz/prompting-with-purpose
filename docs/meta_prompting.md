@@ -1,5 +1,5 @@
 !!! tip ""
-    > "The first principle is that you must not fool yourself—and you are the easiest person to fool." _Richard Feynman_ (Caltech commencement speech, 1974).
+    > "The first principle is that you must not fool yourself—and you are the easiest person to fool." _Richard Feynman_ (Caltech commencement speech, 1974)
 
 **Letting AI Help You Prompt Better.**
 

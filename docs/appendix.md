@@ -1,5 +1,5 @@
 !!! tip ""
-    > "The universe doesn’t allow perfection." _Stephen Hawking_ (A Brief History of Time, 1988).
+    > "The universe doesn’t allow perfection." _Stephen Hawking_ (A Brief History of Time, 1988)
 
 ## Appendix: Advanced Prompting Topics
 

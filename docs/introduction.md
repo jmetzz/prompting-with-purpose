@@ -1,19 +1,9 @@
 !!! tip ""
-    > "I do not fear computers. I fear the lack of them." _Isaac Asimov_.
+    > "I do not fear computers. I fear the lack of them." _Isaac Asimov_
 
-**Tired of asking AI simple questions? Ready to solve real problems instead?**
+You probably already know how to ask AI for facts. But what if you used it to think more clearly, creatively, and critically?
 
-You’ve probably used AI to get a quick fact or answer. But what if you could use it to plan a trip, improve your writing, map out a complex project—or spot blind spots and missed assumptions before they trip you up?
-
-This crash course teaches you to use AI as a **thinking partner**—not just a search engine. Whether you’re planning a project, tackling a tough decision, or trying to be more creative, you’ll learn how to write prompts that make AI genuinely useful.
-
-## What to Expect
-
-We'll cut through the jargon and focus on three essential techniques:
-
-1. **First Principles Thinking:** Ask for what you _really_ want
-2. **Chain of Thought Prompting:** Break down complex tasks step by step
-3. **Meta-Prompting:** Let the AI help you prompt better
+This course teaches you to use AI as a thinking partner—a tool for planning, problem-solving, and uncovering blind spots. In this introduction, you’ll see what’s ahead: a hands-on, jargon-free journey designed for curious minds, not just tech experts.
 
 ## Meet Your Guides
 
@@ -27,6 +17,10 @@ You’ll follow two characters throughout the course—each one representing a s
 
 ---
 
-We'll use examples featuring Alex and Cortex to guide you. By the end of this course, you'll have a new skillset to help you in your daily work, studies, and even your personal life.
+You’ll see them in examples throughout the course, working together to solve problems, learn faster, and think better.
+
+## How the Course Works
+
+The course is organized into short chapters, each introducing a key technique or concept. You’ll learn by doing—through examples, activities, and ready-to-use prompts. You’ll take away a toolkit for working smarter with AI.
 
 **Let's begin!** 🚀

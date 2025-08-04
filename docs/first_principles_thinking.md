@@ -1,5 +1,5 @@
 !!! tip ""
-    > "The important thing is not to stop questioning. Curiosity has its own reason for existence." _Albert Einstein_ (LIFE Magazine, 1955).
+    > "The important thing is not to stop questioning. Curiosity has its own reason for existence." _Albert Einstein_ (LIFE Magazine, 1955)
 
 This might sound like a fancy academic term, but "First Principles Thinking" is an incredibly powerful and practical approach that will transform how you write prompts. It's about getting to the root of your request before you even start typing.
 
