@@ -1,38 +1,32 @@
 !!! tip ""
     > "I do not fear computers. I fear the lack of them." _Isaac Asimov_.
 
-**Ready go beyond asking questions and start solving real problems with AI?**
+**Tired of asking AI simple questions? Ready to solve real problems instead?**
 
-You've probably used AI to ask a question or find a quick fact. But what if you could use it to invent a new recipe, plan a complex project, or get a second opinion on a big decision?
+You’ve probably used AI to get a quick fact or answer. But what if you could use it to plan a trip, improve your writing, map out a complex project—or spot blind spots and missed assumptions before they trip you up?
 
-This crash course is designed to take you from a casual user to a confident AI user. We'll show you how to move beyond simple questions and start using AI as a true partner—a "copilot" that can help you brainstorm, create, and solve problems.
+This crash course teaches you to use AI as a **thinking partner**—not just a search engine. Whether you’re planning a project, tackling a tough decision, or trying to be more creative, you’ll learn how to write prompts that make AI genuinely useful.
 
 ## What to Expect
 
-We'll cut through the jargon and show you the three key techniques that will transform how you use AI:
+We'll cut through the jargon and focus on three essential techniques:
 
-1. **First Principles Thinking:** Learn to ask for what you _really_ want.
-2. **Chain of Thought Prompting:** Guide the AI step-by-step to get better, more accurate results.
-3. **Meta-Prompting:** Get the AI to help you write better prompts.
+1. **First Principles Thinking:** Ask for what you _really_ want
+2. **Chain of Thought Prompting:** Break down complex tasks step by step
+3. **Meta-Prompting:** Let the AI help you prompt better
 
 ## Meet Your Guides
 
-To make this journey more engaging, we've created two characters to guide you through the material. They represent the two sides of the human-AI partnership: the curious user and the powerful tool.
+You’ll follow two characters throughout the course—each one representing a side of the human-AI partnership.
 
-### Meet Alex: Your Human Guide
+!!! quote "Alex"
+    I’m Alex—a curious learner like you. I ask questions, try new prompts, and figure things out step by step. I don’t always get it right the first time, but that’s part of learning.
 
-Alex is a creative and curious professional, learning how to use AI right alongside you. Think of Alex as your stand-in—they ask the questions you might be thinking, try out new prompts, and figure things out step-by-step.
-
-We’ve intentionally designed Alex to be gender-neutral, so that **anyone can see themselves in Alex’s shoes**. The best way to picture Alex is not by their appearance, but by their actions: leaning forward with a new idea, sketching in a notebook, or having that "aha!" moment. They are a silhouette of focused curiosity, representing the human drive to learn, create, and solve problems.
-
-### Meet Cortex: Your AI Copilot
-
-Cortex is your friendly, non-human guide. It's the voice of the AI itself. Imagine a shimmering, floating brain made of pure information, equipped with a headset to communicate its vast knowledge. Cortex is logical, endlessly patient, and capable of generating incredible things in an instant.
-
-It doesn't have feelings, but it has a clear purpose: to understand your instructions and provide the best possible response. It's the engine of creativity and analysis that you'll be learning to direct.
+!!! quote "Cortex"
+    I’m Cortex—the AI in this partnership. I think fast, stay focused, and follow your lead. I’m here to help you solve problems, generate ideas, and see things from new angles.
 
 ---
 
 We'll use examples featuring Alex and Cortex to guide you. By the end of this course, you'll have a new skillset to help you in your daily work, studies, and even your personal life.
 
-Let's begin!
+**Let's begin!** 🚀
