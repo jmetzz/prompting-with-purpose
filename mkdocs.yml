@@ -1,4 +1,5 @@
-site_name: AI Prompting Crash Course
+site_name: "Prompting with Purpose"
+site_description: "Making Friends with AI — A Crash Course in Thinking Together"
 theme:
   name: material
   features:

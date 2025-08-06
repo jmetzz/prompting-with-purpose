@@ -1,7 +1,12 @@
+
+# Prompting with Purpose
+
+**Making Friends with AI — A Crash Course in Thinking Together** 🧠💭
+
+## Welcome to the Prompting with Purpose Crash Course
+
 !!! tip ""
     > "The true beauty of the universe lies in its complexity, not its simplicity." _Isaac Asimov_ (Attributed)
-
-## Welcome to the AI Prompting Crash Course
 
 Use AI like a thinking **partner**—not just a search box.
 
