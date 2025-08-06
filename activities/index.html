@@ -1,0 +1,1919 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="Making Friends with AI — A Crash Course in Thinking Together">
+      
+      
+      
+      
+        <link rel="prev" href="../practical_applications_and_tool_tips/">
+      
+      
+        <link rel="next" href="../conclusion/">
+      
+      
+      <link rel="icon" href="../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.16">
+    
+    
+      
+        <title>Activities - Prompting with Purpose</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.7e37652d.min.css">
+      
+        
+        <link rel="stylesheet" href="../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+  
+  
+  
+  
+  <style>:root{--md-annotation-icon:url('data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2024%2024%22%3E%3Cpath%20d%3D%22M12%2020c-4.41%200-8-3.59-8-8s3.59-8%208-8%208%203.59%208%208-3.59%208-8%208m0-18A10%2010%200%200%200%202%2012a10%2010%200%200%200%2010%2010%2010%2010%200%200%200%2010-10A10%2010%200%200%200%2012%202m1%205h-2v4H7v2h4v4h2v-4h4v-2h-4z%22/%3E%3C/svg%3E');}</style>
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="amber">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#scenario-1-researching-workshop-sponsors-grants" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href=".." title="Prompting with Purpose" class="md-header__button md-logo" aria-label="Prompting with Purpose" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Prompting with Purpose
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Activities
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="amber"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12s-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="deep-purple" data-md-color-accent="lime"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="Prompting with Purpose" class="md-nav__button md-logo" aria-label="Prompting with Purpose" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    Prompting with Purpose
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href=".." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Home
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../introduction/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Introduction
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Foundations
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            Foundations
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../understanding_ai_basics/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Understanding AI Basics
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Core Techniques
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            Core Techniques
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../first_principles_thinking/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    First Principles Thinking
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chain_of_thought_prompting/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Chain of Thought Prompting
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../meta_prompting/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Meta Prompting
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Responsible AI Use
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            Responsible AI Use
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../results_verification/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Verify Your Results
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../ethical_use_of_ai/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Ethical Use of AI
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Practical Guidance
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            Practical Guidance
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../practical_applications_and_tool_tips/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Practical Applications and Tool Tips
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    Activities
+    
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    Activities
+    
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#scenario-1-researching-workshop-sponsors-grants" class="md-nav__link">
+    <span class="md-ellipsis">
+      Scenario 1: Researching Workshop Sponsors &amp; Grants
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#scenario-2-choosing-the-best-workshop-venue" class="md-nav__link">
+    <span class="md-ellipsis">
+      Scenario 2: Choosing the Best Workshop Venue
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#scenario-3-optimizing-the-workshop-planning-process" class="md-nav__link">
+    <span class="md-ellipsis">
+      Scenario 3: Optimizing the Workshop Planning Process
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#scenario-4-recipe-unit-conversion-and-standardization" class="md-nav__link">
+    <span class="md-ellipsis">
+      Scenario 4: Recipe Unit Conversion and Standardization
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#scenario-5-strategic-career-decision-making" class="md-nav__link">
+    <span class="md-ellipsis">
+      Scenario 5: Strategic Career Decision Making
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#scenario-6-investment-research-due-diligence" class="md-nav__link">
+    <span class="md-ellipsis">
+      Scenario 6: Investment Research &amp; Due Diligence
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#scenario-7-analyzing-historical-documents" class="md-nav__link">
+    <span class="md-ellipsis">
+      Scenario 7: Analyzing Historical Documents
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#scenario-8-generating-a-grant-proposal-outline" class="md-nav__link">
+    <span class="md-ellipsis">
+      Scenario 8: Generating a Grant Proposal Outline
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7" >
+        
+          
+          <label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Wrap-Up
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7">
+            <span class="md-nav__icon md-icon"></span>
+            Wrap-Up
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../conclusion/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Conclusion
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../references/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    References
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8" >
+        
+          
+          <label class="md-nav__link" for="__nav_8" id="__nav_8_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Appendix
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_8_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_8">
+            <span class="md-nav__icon md-icon"></span>
+            Appendix
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../appendix/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Advanced Prompting Topics
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_8_2" id="__nav_8_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Prompt Library
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_8_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_8_2">
+            <span class="md-nav__icon md-icon"></span>
+            Prompt Library
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../a_writing_prompts/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Writing Prompts
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../b_learning_prompts/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Learning Prompts
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../c_problem_solving_prompts/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Problem Solving
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../d_business_prompts/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Business Prompts
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#scenario-1-researching-workshop-sponsors-grants" class="md-nav__link">
+    <span class="md-ellipsis">
+      Scenario 1: Researching Workshop Sponsors &amp; Grants
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#scenario-2-choosing-the-best-workshop-venue" class="md-nav__link">
+    <span class="md-ellipsis">
+      Scenario 2: Choosing the Best Workshop Venue
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#scenario-3-optimizing-the-workshop-planning-process" class="md-nav__link">
+    <span class="md-ellipsis">
+      Scenario 3: Optimizing the Workshop Planning Process
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#scenario-4-recipe-unit-conversion-and-standardization" class="md-nav__link">
+    <span class="md-ellipsis">
+      Scenario 4: Recipe Unit Conversion and Standardization
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#scenario-5-strategic-career-decision-making" class="md-nav__link">
+    <span class="md-ellipsis">
+      Scenario 5: Strategic Career Decision Making
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#scenario-6-investment-research-due-diligence" class="md-nav__link">
+    <span class="md-ellipsis">
+      Scenario 6: Investment Research &amp; Due Diligence
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#scenario-7-analyzing-historical-documents" class="md-nav__link">
+    <span class="md-ellipsis">
+      Scenario 7: Analyzing Historical Documents
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#scenario-8-generating-a-grant-proposal-outline" class="md-nav__link">
+    <span class="md-ellipsis">
+      Scenario 8: Generating a Grant Proposal Outline
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+  <h1>Activities</h1>
+
+<div class="admonition tip">
+<blockquote>
+<p>"The only way to learn mathematics is to do mathematics." <em>Paul Halmos</em> (I Want to Be a Mathematician, 1985)</p>
+</blockquote>
+</div>
+<p><strong>Putting Your Prompting Skills to Work</strong></p>
+<p>These challenges are designed to help you apply First Principles Thinking, Chain of Thought, Meta-prompting, and leverage the unique capabilities of various AI tools for real-world tasks.</p>
+<div class="admonition warning">
+<p class="admonition-title">Remember</p>
+<p>I’ve included a full example walkthrough for the first activity—but try it yourself before reading the answer! That’s where the real learning happens ☺️</p>
+</div>
+<h3 id="scenario-1-researching-workshop-sponsors-grants">Scenario 1: Researching Workshop Sponsors &amp; Grants</h3>
+<blockquote>
+<p>Best for Smart Search &amp; Research AI (e.g., Perplexity AI) or General Conversational AI with web browsing capabilities (e.g., ChatGPT, Google Gemini)</p>
+</blockquote>
+<p>Alex needs funding for the upcoming community garden workshop. Help him prompt Cortex to find suitable grants or sponsors—and understand what makes them a good fit.</p>
+<p><strong>Your Practice Task:</strong> apply all three techniques.</p>
+<ol>
+<li>
+<p><strong>First Principles:</strong> Think about and research what constitutes a "good sponsor" or "suitable grant" for <em>Alex's</em>? What are the non-negotiables? What are the absolute core pieces of information Alex needs about a potential funder (e.g., mission alignment, funding history, application process, typical grant size)? What are Alex's constraints (e.g., non-profit status, local focus)?</p>
+</li>
+<li>
+<p><strong>Chain of Thought:</strong> Design a prompt (or a sequence of prompts) to guide Cortex to:</p>
+<ul>
+<li>
+<p>Find recent grant opportunities for urban agriculture or community education projects in [Alex's city/region].</p>
+</li>
+<li>
+<p>Identify potential local businesses that align with community or environmental initiatives.</p>
+</li>
+<li>
+<p>Summarize their typical funding areas and application requirements.</p>
+</li>
+<li>
+<p>Finally, provide a concise summary outlining pros and cons for pursuing each opportunity, based <em>only</em> on the gathered data, clearly stating if the data suggests it's a good fit for <em>Alex's defined criteria</em>.</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Meta-prompting:</strong> Reflect and iterate. Ask Cortex to help you improve your earlier prompts.</p>
+</li>
+<li>
+<p><strong>Which type of AI tool</strong> would be ideal for this task? How would Alex ensure Cortex pulls <em>current</em> and <em>reliable</em> data?</p>
+</li>
+</ol>
+<details class="example">
+<summary>Potential flow</summary>
+<div class="admonition question">
+<p class="admonition-title">Using Cortex to help Alex finding a sponsor</p>
+<p>I want to find a sponsor for our garden workshop. Can we break down what makes someone a good match? What values or constraints should we consider?</p>
+</div>
+<div class="admonition quote">
+<p class="admonition-title">Answer from Cortex</p>
+<p>Absolutely. Let’s break it down from first principles.</p>
+<p>🎯 What makes a sponsor a good match?</p>
+<p>We can think in terms of:</p>
+<ol>
+<li>
+<p>Alignment of Mission and Values</p>
+<ol>
+<li>Do they care about community development, sustainability, or education?</li>
+<li>Example fit: local environmental nonprofits, eco-conscious brands, urban farming initiatives.</li>
+</ol>
+</li>
+<li>
+<p>Geographic Focus</p>
+<ol>
+<li>Are they active in your city or region?</li>
+<li>Do they prefer supporting local events or grassroots initiatives?</li>
+</ol>
+</li>
+<li>
+<p>Type and Size of Support</p>
+<ol>
+<li>Do they fund similar-sized projects? (e.g., small grants, in-kind donations, volunteers?)</li>
+<li>Are they open to non-monetary support like equipment, food, or promotion?</li>
+</ol>
+</li>
+<li>
+<p>Eligibility and Constraints</p>
+<ol>
+<li>Do they require nonprofit status or formal registration?</li>
+<li>Do they only fund certain demographics, themes, or formats?</li>
+</ol>
+</li>
+<li>
+<p>Track Record</p>
+<ol>
+<li>Have they sponsored similar projects before?</li>
+<li>Do they have clear application processes or deadlines?</li>
+</ol>
+</li>
+</ol>
+</div>
+<hr />
+<p>Simplified prompt sequence for CoT:</p>
+<div class="admonition question">
+<p class="admonition-title">Alex</p>
+<p>First, find recent grants for urban agriculture or environmental education in Munich.</p>
+</div>
+<div class="admonition quote">
+<p class="admonition-title">Cortex</p>
+<p>🔎 Understood. I’ll now search for recent grants in Munich related to:
+- Urban agriculture
+- Environmental education
+- Community gardening</p>
+<p>Please hold on while I gather results…
+🧠 (Simulating smart search behavior you’d get from tools like Perplexity or ChatGPT with browsing)</p>
+<p>⸻</p>
+<p>✅ Here’s what I found:</p>
+<ol>
+<li>
+<p>Bayerische Umweltstiftung (Bavarian Environmental Foundation)</p>
+<ul>
+<li>Focus: Environmental education, sustainability, biodiversity</li>
+<li>Funding Type: Project-based grants</li>
+<li>Eligibility: Associations, initiatives, and educational institutions in Bavaria</li>
+<li>Website: umweltstiftung.bayern.de</li>
+</ul>
+</li>
+<li>
+<p>Stiftungsgemeinschaft anstiftung &amp; ertomis</p>
+<ul>
+<li>Focus: Urban gardening, DIY culture, civic engagement</li>
+<li>Type: Financial and knowledge support</li>
+<li>Eligibility: Grassroots or community-led projects across German cities</li>
+<li>Note: Strong fit for community workshops with a self-organization angle</li>
+<li>Website: anstiftung.de</li>
+</ul>
+</li>
+<li>
+<p>Deutsche Postcode Lotterie</p>
+<ul>
+<li>Focus: Local social and environmental impact projects</li>
+<li>Funding Size: €5,000–€30,000</li>
+<li>Eligibility: Registered non-profits</li>
+<li>Website: postcode-lotterie.de/projekte</li>
+</ul>
+</li>
+</ol>
+<p>⸻</p>
+<p>Let me know if you’d like me to:</p>
+<ul>
+<li>Summarize their requirements and constraints</li>
+<li>Help you prompt me to check one of these in more detail</li>
+<li>Or move on to identifying potential local business sponsors</li>
+</ul>
+</div>
+<div class="admonition question">
+<p class="admonition-title">Alex</p>
+<p>Can you summarize their eligibility criteria and typical funding size?</p>
+</div>
+<div class="admonition quote">
+<p class="admonition-title">Cortex</p>
+<p>✅ Here’s a summary of the eligibility criteria and funding size for each grant opportunity:</p>
+<p>⸻</p>
+<ol>
+<li>Bayerische Umweltstiftung<ul>
+<li><strong>Eligibility</strong>:<ul>
+<li>Must operate in Bavaria</li>
+<li>Projects must focus on environmental protection or education</li>
+<li>Eligible: Associations, schools, community initiatives</li>
+</ul>
+</li>
+<li><strong>Funding Size</strong>:<ul>
+<li>Varies by project scope, typically €2,000–€15,000</li>
+<li>No fixed ceiling published; funding is project-based</li>
+</ul>
+</li>
+</ul>
+</li>
+</ol>
+<p>⸻</p>
+<ol>
+<li>Stiftung anstiftung &amp; ertomis<ul>
+<li><strong>Eligibility</strong>:<ul>
+<li>Grassroots/community-led initiatives</li>
+<li>Must relate to urban gardening, DIY, or civic engagement</li>
+<li>Not limited to registered non-profits</li>
+</ul>
+</li>
+<li><strong>Funding Size</strong>:<ul>
+<li>Usually small-scale grants or material support</li>
+<li>Example: tools, seeds, consultation, or space facilitation</li>
+<li>€500–€5,000 typical range (in-kind and cash combined)</li>
+</ul>
+</li>
+</ul>
+</li>
+</ol>
+<p>⸻</p>
+<ol>
+<li>Deutsche Postcode Lotterie<ul>
+<li><strong>Eligibility</strong>:<ul>
+<li>Must be a registered non-profit (gemeinnützig)</li>
+<li>Projects must show measurable social or ecological impact</li>
+<li>Must take place in Germany</li>
+</ul>
+</li>
+<li><strong>Funding Size</strong>:<ul>
+<li>Between €5,000 and €30,000</li>
+<li>Higher funding possible for strong regional impact or partnerships</li>
+</ul>
+</li>
+</ul>
+</li>
+</ol>
+<p>⸻</p>
+<p>Let me know if you’d like to:</p>
+<ul>
+<li>Compare which of these is the best fit for Alex’s case</li>
+<li>Draft an outreach or grant application prompt</li>
+<li>Or continue to local business sponsors next</li>
+</ul>
+</div>
+<div class="admonition question">
+<p class="admonition-title">Alex</p>
+<p>What types of organizations usually receive these grants?</p>
+</div>
+<div class="admonition quote">
+<p class="admonition-title">Cortex</p>
+<p>Here’s what I found on the typical recipients of each funding opportunity:</p>
+<p>⸻</p>
+<ol>
+<li>Bayerische Umweltstiftung</li>
+</ol>
+<p>Common recipients:</p>
+<ul>
+<li>Environmental education centers</li>
+<li>Nature conservation groups</li>
+<li>Schools running sustainability projects</li>
+<li>Community gardens focused on biodiversity</li>
+</ul>
+<p>🧠 Focus tends to be on formal or semi-formal initiatives with a clear educational or ecological mission in Bavaria.</p>
+<p>⸻</p>
+<ol>
+<li>Stiftung anstiftung &amp; ertomis</li>
+</ol>
+<p>Common recipients:</p>
+<ul>
+<li>Urban gardening collectives</li>
+<li>Neighborhood initiatives</li>
+<li>DIY/civic labs</li>
+<li>Citizen science or permaculture groups</li>
+</ul>
+<p>🧠 They explicitly support informal, grassroots projects—especially those with self-organization and participation at their core.</p>
+<p>⸻</p>
+<ol>
+<li>Deutsche Postcode Lotterie</li>
+</ol>
+<p>Common recipients:</p>
+<ul>
+<li>Registered non-profits (e.V.s, gGmbHs)</li>
+<li>Social enterprises</li>
+<li>Educational NGOs</li>
+<li>Environmental and social action groups</li>
+</ul>
+<p>🧠 The emphasis is on scalable local impact—applicants often already have experience running community-level programs.</p>
+<p>⸻</p>
+<p>Let me know if you want to compare these fits to Alex’s situation or reflect on how well your prompt sequence is working so far.</p>
+</div>
+<hr />
+<p>Then refine with Meta-prompting</p>
+<div class="admonition question">
+<p class="admonition-title">Alex</p>
+<p>I need you help me to improve the earlier prompts. Were they specific enough? How could I make them clearer or more useful?</p>
+</div>
+<div class="admonition quote">
+<p class="admonition-title">Cortex</p>
+<p>Great question, Alex. Let’s take a look at each of your prompts and see how we can refine them for clarity, precision, and control.</p>
+<p>⸻</p>
+<p>🧩 Prompt 1:</p>
+<p>“I want to find a sponsor for our garden workshop. Can we break down what makes someone a good match? What values or constraints should we consider?”</p>
+<p>✅ Strengths:
+- Clear goal (“sponsor for garden workshop”)
+- Opens up a structured breakdown via First Principles</p>
+<p>🔧 Improvements:
+- Add contextual cues to ground the answer
+- Be more explicit about the output format or purpose</p>
+<p>💬 Improved version:</p>
+<blockquote>
+<p>I want to find a sponsor for our community garden workshop in Munich. Can we break down what makes a sponsor a good match—from
+values to constraints—so I can use it as a checklist later?</p>
+</blockquote>
+<p>⸻</p>
+<p>🧩 Prompt 2:</p>
+<p>“First, find recent grants for urban agriculture or environmental education in Munich.”</p>
+<p>✅ Strengths:
+- Specific focus (urban agriculture, education, Munich)
+- Good use of “First” to guide a step-by-step Chain of Thought</p>
+<p>🔧 Improvements:
+- Add time frame (“recent” is vague)
+- Clarify type of output (e.g., summary, list, overview)</p>
+<p>💬 Improved version:</p>
+<blockquote>
+<p>Can you find grant opportunities from the last 12 months related to urban agriculture or environmental education in Munich?
+Please summarize each one briefly with key details like funding amount and eligibility.</p>
+</blockquote>
+<p>⸻</p>
+<p>🧩 Prompt 3:</p>
+<p>“Can you summarize their eligibility criteria and typical funding size?”</p>
+<p>✅ Strengths:
+- Simple, direct follow-up</p>
+<p>🔧 Improvements:
+- Make the reference more explicit (whose eligibility?)
+- Ask for structured or tabular output if needed</p>
+<p>💬 Improved version:</p>
+<blockquote>
+<p>For the grants you just listed, can you summarize their eligibility requirements and typical funding size in a clear format?</p>
+</blockquote>
+<p>⸻</p>
+<p>🧩 Prompt 4:</p>
+<p>“What types of organizations usually receive these grants?”</p>
+<p>✅ Strengths:
+- Good analytical follow-up
+- Encourages synthesis from prior info</p>
+<p>🔧 Improvements:
+- Add intent: why you want to know
+- Clarify scope: all grants or a specific one?</p>
+<p>💬 Improved version:</p>
+<blockquote>
+<p>Based on the grants you listed, what types of organizations typically receive this kind of funding? I want to see how well our garden initiative aligns.</p>
+</blockquote>
+<p>⸻</p>
+<p>Would you like me to help you rewrite these into one structured scenario prompt for future use?</p>
+</div>
+<div class="admonition question">
+<p class="admonition-title">Alex</p>
+<p>Yes, please.</p>
+</div>
+<div class="admonition quote">
+<p class="admonition-title">Cortex</p>
+<p>🪴 Scenario Prompt: Finding Funding for a Community Garden Workshop</p>
+<p>I’m organizing a community garden workshop in Munich and looking for suitable sponsors or grant opportunities. Can you help me work through this step by step?</p>
+<ol>
+<li>
+<p>First, let’s break it down from first principles:</p>
+<ul>
+<li>What makes someone a good sponsor or grant provider in this context?</li>
+<li>What values, constraints, or criteria should I be considering?</li>
+</ul>
+</li>
+<li>
+<p>Now, let’s search:</p>
+<ul>
+<li>Can you find grant opportunities from the past 12 months related to urban agriculture or environmental education in Munich?</li>
+<li>Please summarize each one briefly with key info: eligibility, typical funding size, and sponsor goals.</li>
+</ul>
+</li>
+<li>
+<p>Then, analyze:</p>
+<ul>
+<li>What types of organizations usually receive this kind of funding?</li>
+<li>Do any of these funders have a track record of supporting small-scale or grassroots workshops?</li>
+</ul>
+</li>
+<li>
+<p>Finally, help me reflect:</p>
+<ul>
+<li>Were my prompts clear and specific enough to get good results?</li>
+<li>How could I improve them next time to get better or more focused answers?</li>
+</ul>
+</li>
+</ol>
+</div>
+<div class="admonition question">
+<p class="admonition-title">Alex</p>
+<p>I want to add a result formatting rule for you to follow.
+But I'm second guessing my ideas on how you should present the final results of the meta-prompting.
+Please suggest some rules and make it very clear in the prompt, like using a dedicated topic for it so that I can see the difference between this updated version and the previous.</p>
+<p>Things to consider as rules:</p>
+<ul>
+<li>Make it simple</li>
+<li>Make it actionable with a clear timeline I should follow</li>
+<li>Don't use tables</li>
+<li>Don't add your usual heading and footing notes. Keep it consistent to the task at hand, and return only the final prompt.</li>
+<li>others you could suggest ...</li>
+</ul>
+</div>
+<div class="admonition quote">
+<p class="admonition-title">Cortex</p>
+<p>🪴 Scenario Prompt: Finding Funding for a Community Garden Workshop</p>
+<p>I’m organizing a community garden workshop in Munich and looking for suitable sponsors or grant opportunities. Can you help me work through this step by step?</p>
+<ol>
+<li>
+<p>First, let’s break it down from first principles:</p>
+<ul>
+<li>What makes someone a good sponsor or grant provider in this context?</li>
+<li>What values, constraints, or criteria should I be considering?</li>
+</ul>
+</li>
+<li>
+<p>Now, let’s search:</p>
+<ul>
+<li>Can you find grant opportunities from the past 12 months related to urban agriculture or environmental education in Munich?</li>
+<li>Please summarize each one briefly with key info: eligibility, typical funding size, and sponsor goals.</li>
+</ul>
+</li>
+<li>
+<p>Then, analyze:</p>
+<ul>
+<li>What types of organizations usually receive this kind of funding?</li>
+<li>Do any of these funders have a track record of supporting small-scale or grassroots workshops?</li>
+</ul>
+</li>
+<li>
+<p>Finally, help me reflect:</p>
+<ul>
+<li>Were my prompts clear and specific enough to get good results?</li>
+<li>How could I improve them next time to get better or more focused answers?</li>
+</ul>
+</li>
+</ol>
+<p>📌 Format your feedback under a separate section titled: “Prompt Reflection” and follow these rules:</p>
+<ul>
+<li>List a maximum of 5 bullet points</li>
+<li>Each point must include one suggestion or insight, written in plain language</li>
+<li>Be specific about what I should do differently and why</li>
+<li>Include a timeline if the suggestion implies a follow-up (e.g., “Before your next search...”)</li>
+<li>Do not repeat or summarize what I did—focus only on what to improve and how</li>
+<li>Keep the reflection practical and easy to act on in the next 5 minutes</li>
+</ul>
+</div>
+<div class="admonition question">
+<p class="admonition-title">Alex</p>
+<p>Certainly! Let’s walk through your request step by step:</p>
+<p>⸻</p>
+<p><strong>What makes someone a good sponsor or grant provider in this context?</strong> A strong sponsor or grant provider for your Munich community garden workshop would typically have these qualities:</p>
+<ul>
+<li>Mission alignment: They prioritize urban agriculture, environmental education, biodiversity, community engagement, or climate resilience.</li>
+<li>Suitable funding scale: They offer modest to mid‑size grants—€1,000 to €10,000—or even micro‑grants (~€500–€5,000).</li>
+<li>Accessibility: Open to grassroots, local or non‑profit initiatives—not just large institutions.</li>
+<li>Local/regional relevance: Ideally active in Germany or within Munich, or at least Europe-wide funding with manageable application processes.</li>
+<li>Track record of similar projects: They’ve funded small-scale workshops, community gardens, or urban environmental education before.</li>
+</ul>
+<p>⸻</p>
+<p><strong>Recent grant opportunities (past 12 months) related to urban agriculture or environmental education in Munich</strong></p>
+<ol>
+<li>
+<p>IKI Small Grants (International Climate Initiative, Germany)</p>
+<ul>
+<li>Eligibility: Local or community-based groups worldwide; German-run via GIZ.</li>
+<li>Typical funding size: Micro‑grants in the range of €500–€5,000 ￼ ￼ ￼.</li>
+<li>Sponsor goals: Support grassroots climate adaptation, biodiversity and ecological resilience projects. Encourages bottom‑up, local solutions.</li>
+</ul>
+</li>
+<li>
+<p>EU Horizon Europe – Cluster 6 / Urban Agriculture &amp; Climate Cities calls (2023–2024)</p>
+<ul>
+<li>Eligibility: NGOs, research institutions, public-private consortia in EU member states, including Germany.</li>
+<li>Funding size: Much larger—multi‑hundred-thousand to million‑euro research/innovation projects ￼.</li>
+<li>Sponsor goals: Enable innovation in urban agriculture, soil health, urban greening, and climate‑neutral city initiatives.</li>
+</ul>
+</li>
+</ol>
+<p>⸻</p>
+<p><strong>Analysis: Who typically gets this funding?</strong></p>
+<ul>
+<li>IKI Small Grants tends to fund small grassroots organizations, local NGOs, or community-driven environmental groups. They emphasize local adaptation and biodiversity, often supporting first-time small projects.</li>
+<li>EU Horizon Europe is aimed at larger collaborations involving universities, municipalities, multi-stakeholder consortia or NGOs with research capacity. Not usually suitable for individual community workshops unless in partnership within a larger project.</li>
+</ul>
+<p>Do any past funders support small-scale workshops? YES—IKI Small Grants is explicitly designed for small community-level climate/environmental initiatives and is a good match for your workshop.</p>
+<p>⸻</p>
+<p><strong>Prompt Reflection</strong></p>
+<p>Here’s how you could sharpen your prompts next time to get more focused and useful results:</p>
+<ul>
+<li>Be explicit about geography and scale: For example: “Find grants in Munich or Germany from the past year that support local community garden or urban agriculture workshops.” This helps eliminate broader research grants.</li>
+<li>Specify funding size and type: e.g., “I’m looking for micro‑grants (€500–€5,000) or small local grants, not large research consortia opportunities.” That narrows to realistically accessible calls.</li>
+<li>Clarify organization type: Add “open to grassroots nonprofits or community groups,” so responses won’t skew toward government or university-level funding.</li>
+<li>Define project focus clearly: Like “workshops focusing on environmental education and hands‑on gardening in an urban neighbourhood.” This helps match sponsors whose goals include education and engagement.</li>
+<li>Include timeframe: e.g., “calls that were open or awarded in the last 12 months (since August 2024).” This ensures currency and avoids stale information.</li>
+</ul>
+</div>
+</details>
+<blockquote>
+<p>🧠 Tip: You can use tools like Perplexity AI/Brave Search or ChatGPT with browsing to assist with this task—but remember, it’s your prompts that matter most.</p>
+</blockquote>
+<hr />
+<h3 id="scenario-2-choosing-the-best-workshop-venue">Scenario 2: Choosing the Best Workshop Venue</h3>
+<blockquote>
+<p>Best for General Conversational AI (e.g., ChatGPT or Google Gemini)</p>
+</blockquote>
+<p>Alex has a few potential venues in mind for the community garden workshop. Help him prompt Cortex to compare the options beyond just cost, so he can make a thoughtful decision.</p>
+<p><strong>Your Practice Task:</strong> Apply First Principles Thinking, prompt design, and meta-prompting to help Alex choose the best venue.</p>
+<ol>
+<li>
+<p><strong>First Principles:</strong> What <em>really</em> matters when selecting a venue for this kind of workshop? Think beyond price—consider accessibility, amenities, proximity to public transport, parking, vibe, logistics, and anything else essential for Alex’s goals.</p>
+</li>
+<li>
+<p><strong>Prompt Construction:</strong> Write a detailed prompt that:</p>
+<ul>
+<li>Assigns a clear role/persona to Cortex (e.g., advisor, planner, organizer)</li>
+<li>Requests a structured comparison across relevant criteria (think about how you want the comparison presented)</li>
+<li>Includes space for “intangibles” like vibe, atmosphere, or community feel</li>
+<li>Asks Cortex to suggest questions or blind spots Alex may not have considered when evaluating venues</li>
+</ul>
+</li>
+<li>
+<p><strong>Meta-prompting (Optional):</strong>  If the AI’s response misses something important—like the emotional feel of the venue, or logistics for setup—write a follow-up prompt to adjust the focus. Ask for help improving your original prompt.</p>
+</li>
+</ol>
+<hr />
+<h3 id="scenario-3-optimizing-the-workshop-planning-process">Scenario 3: Optimizing the Workshop Planning Process</h3>
+<blockquote>
+<p>Best for Knowledge Management &amp; Source-Grounded AI (e.g., NotebookLM) or General Conversational AI for initial brainstorming</p>
+</blockquote>
+<p>Alex is organizing the “Beginner’s Urban Gardening Workshop.” He has access to a few old workshop documents—like past agendas, feedback forms, and budget templates—but needs help designing a clear planning process and initial content ideas for this new event.</p>
+<p><strong>Your Practice Task:</strong> Apply First Principles Thinking, Chain of Thought, and optionally Meta-prompting to help Alex create a useful plan.</p>
+<div class="annotate">
+<ol>
+<li>
+<p><strong>First Principles:</strong> Identify the essential phases of planning a one-day workshop. What core elements should always be included? What constraints matter most in this case—budget, audience size, available time, or others?</p>
+</li>
+<li>
+<p><strong>Prompt Construction:</strong> Guide Cortex to:</p>
+<ul>
+<li>Build a complete planning checklist from start to finish for a 1-day workshop. Remember the post-event follow-up.</li>
+<li>Brainstorm 3–5 engaging session topics for beginners</li>
+<li>Add short descriptions and learning goals for each topic</li>
+</ul>
+<p>If you’re imagining Cortex has access to Alex’s past documents, include a way to reference those and ask for lessons learned. How would Alex prompt Cortex to leverage <em>those specific documents</em> to inform the checklist or suggest content ideas based on past successful elements or attendee feedback?</p>
+</li>
+<li>
+<p><strong>Meta-prompting (Optional):</strong> If Cortex’s checklist or topic ideas feel too generic, write a follow-up prompt to sharpen the relevance or use more specific context from past events.</p>
+</li>
+</ol>
+<p><strong>Tool Consideration:</strong> Which features of a Knowledge Management AI (source grounding (1)) or General Conversational AI (general brainstorming) would be most beneficial for different parts of this task?</p>
+</div>
+<ol>
+<li>📎 <strong>Source grounding</strong> means guiding the AI to base its answers on specific documents or trusted materials, rather than general knowledge.</li>
+</ol>
+<hr />
+<h3 id="scenario-4-recipe-unit-conversion-and-standardization">Scenario 4: Recipe Unit Conversion and Standardization</h3>
+<blockquote>
+<p>Changing a bit the subject ...</p>
+</blockquote>
+<p>Alex wants to convert a traditional family recipe (e.g., cookies) from imperial units (cups, ounces, Fahrenheit) to metric units (grams, milliliters, Celsius) for a community cookbook. The goal is to make the recipe accessible to a wider audience and ensure consistency.</p>
+<p><strong>Your Practice Task:</strong> As usual, apply the techniques you learned in this course to help Cortex with the task.</p>
+<ol>
+<li>
+<p><strong>First Principles:</strong> What are the core components of a recipe? What are the standard units used in each system, and how do they relate? What does "consistency" really mean when converting a recipe for public use?</p>
+</li>
+<li>
+<p><strong>Prompt Construction:</strong> Design a prompt (or sequence of prompts) to guide Cortex to:</p>
+<ul>
+<li>Extract ingredients and quantities clearly from the original version</li>
+<li>Convert each value accurately to its metric equivalent</li>
+<li>Reformat the recipe into a clean, well-structured format (e.g., separate ingredients and steps, consistent units, optional formatting like Markdown)</li>
+</ul>
+</li>
+<li>
+<p><strong>Meta-prompting (Optional):</strong> If Cortex’s output is unclear, inconsistent, or too informal, write a follow-up prompt asking it to improve the format or be more precise.</p>
+</li>
+</ol>
+<hr />
+<h3 id="scenario-5-strategic-career-decision-making">Scenario 5: Strategic Career Decision Making</h3>
+<p>Alex has received two job offers (Offer A and Offer B) and needs help evaluating them to make an informed decision. The choice involves more than just comparing salaries—it’s about long-term fit, growth, and personal priorities.</p>
+<div class="admonition warning">
+<p class="admonition-title">Ethical Checkpoint</p>
+<p>This scenario involves a high-stakes decision. Before acting on the AI's suggestion, apply the <strong>RISK</strong> framework.
+- <strong>Relevance &amp; Knowledge Gap:</strong> Is the AI's analysis truly relevant to your personal priorities? Are you assuming it knows more about you or the companies than it does?
+- <strong>Integrity &amp; Sensitivity:</strong> This is a deeply personal and sensitive decision. Use the AI as a tool to structure your thinking, not to make the choice for you.
+- <strong>Action:</strong> Always use the AI's output as a brainstorming aid. The final decision must be yours, based on your own judgment and, if possible, conversations with trusted mentors or advisors. For more, see the <a href="../ethical_use_of_ai/">Ethical Use of AI</a> chapter.</p>
+</div>
+<p><strong>Your Practice Task:</strong> You know the drill, apply First Principles Thinking, prompt design with CoT, and Meta-prompting to support Alex in making this decision.</p>
+<ol>
+<li>
+<p><strong>First Principles:</strong> What truly matters in a job decision beyond salary? Consider things like work-life balance, growth potential, culture, location, team dynamics, and values alignment. Identify the core decision-making criteria.</p>
+</li>
+<li>
+<p><strong>Prompt Construction:</strong> Write a detailed prompt to help Cortex:</p>
+<ul>
+<li>A persona for Cortex (e.g., "Act as an unbiased career counselor" or "Act as a strategic life coach")</li>
+<li>Compare the two offers across meaningful dimensions</li>
+<li>Include qualitative aspects ("intangibles") like “gut feeling” or sense of purpose</li>
+<li>Suggest follow-up questions Alex should consider asking the companies—or himself—before choosing to identify and clarify potential "blind spots"</li>
+</ul>
+</li>
+<li>
+<p><strong>Meta-prompting (Optional):</strong> If Cortex’s answer feels too generic, biased, or overly focused on a single factor, write a follow-up prompt that improves the framing or helps refine the original prompt.</p>
+</li>
+</ol>
+<hr />
+<h3 id="scenario-6-investment-research-due-diligence">Scenario 6: Investment Research &amp; Due Diligence</h3>
+<p>Alex is considering investing in a public company (e.g., “GreenGrow Inc.”) and wants to make an informed decision. He needs to quickly gather and synthesize both financial and non-financial insights to assess whether it’s a good fit.</p>
+<div class="admonition warning">
+<p class="admonition-title">Ethical Checkpoint</p>
+<p>This scenario involves high-stakes financial decisions. Before acting on any AI-generated analysis, apply the <strong>RISK</strong> framework.
+- <strong>Relevance &amp; Knowledge Gap:</strong> Financial data can be complex and time-sensitive. Are you assuming the AI has access to the latest information or a deep understanding of market dynamics?
+- <strong>Integrity &amp; Sensitivity:</strong> Investment decisions have real financial consequences. Do not rely solely on an AI for financial advice.
+- <strong>Action:</strong> Use AI as a starting point for research, but always verify data with reputable financial sources (e.g., official company filings, established financial news sites) and consider consulting a qualified human financial advisor. For more, see the <a href="../ethical_use_of_ai/">Ethical Use of AI</a> chapter.</p>
+</div>
+<p><strong>Your Practice Task:</strong> Use your toolkit and techniques to guide Cortex helping Alex through this decision-making process.</p>
+<ol>
+<li>
+<p><strong>First Principles:</strong> What makes a company a “good investment” for Alex? Identify the key factors he should consider—such as financial health, long-term sustainability, leadership, product differentiation, values alignment, and risk exposure.</p>
+</li>
+<li>
+<p><strong>Prompt Construction:</strong> Write a prompt (or sequence of prompts) to help Cortex:</p>
+<ul>
+<li>Gather both quantitative data (e.g., revenue trends, debt levels) and qualitative signals (e.g., market reputation, press coverage)</li>
+<li>Analyze how well the company aligns with Alex’s goals or values</li>
+<li>Clearly outline pros and cons based on available data</li>
+</ul>
+</li>
+<li>
+<p><strong>Meta-prompting (Optional):</strong> write a follow-up prompt asking it to be more critical, use more specific sources, or explain its reasoning more clearly.</p>
+</li>
+</ol>
+<div class="admonition tip">
+<p class="admonition-title">Tool Note</p>
+<p>Some AI tools now offer finance-specific modes designed to improve search and analysis for investment tasks. For example, <a href="https://www.perplexity.ai/finance/MU">Perplexity’s Finance</a> mode helps retrieve up-to-date financial data and reports, while <a href="https://www.anthropic.com/solutions/financial-services">Claude has a Finance assistant</a> tailored for structured research. These can be useful if you have access—but remember, your prompts still make the biggest difference.</p>
+</div>
+<hr />
+<h3 id="scenario-7-analyzing-historical-documents">Scenario 7: Analyzing Historical Documents</h3>
+<p>Alex is volunteering at a local historical society. He’s been given a scanned image of a handwritten letter from the 1800s, which appears to mention agricultural practices in the region. His goal is to extract meaningful information—like names, dates, and crop references—from the image.</p>
+<p><strong>Your Practice Task:</strong> Use Chain of Thought reasoning and (optionally) meta-prompting to help Alex retrieve and make sense of this historical material. This is also an opportunity to explore how Multimodal AI can support tasks that go beyond plain text.</p>
+<div class="admonition tip">
+<p class="admonition-title">Multimodal</p>
+<p>You can also use AI to generate this type of image yourself to practice even more realistically!</p>
+</div>
+<ol>
+<li>
+<p><strong>Prompt Construction:</strong> Write a prompt to guide Cortex through this task. Assume the image is either uploaded or already transcribed by OCR. Your prompt should:</p>
+<ul>
+<li>Assign a relevant role to Cortex (e.g., historian, archivist, expert in 19<sup>th</sup>-century agriculture)</li>
+<li>Instruct Cortex to extract key entities: names, places, dates, and agricultural terms</li>
+<li>Ask it to note any ambiguous, unclear, or illegible parts</li>
+<li>Specify how the results should be organized (e.g., grouped, listed, structured—your choice)</li>
+</ul>
+</li>
+<li>
+<p><strong>Tool Consideration:</strong> What challenges might arise when working with handwritten or aged documents? What limitations does AI face when reading cursive or historical language? How might Alex verify that the extracted information is accurate?</p>
+</li>
+<li>
+<p><strong>Meta-prompting (Optional):</strong> If Cortex’s output feels incomplete or unclear, write a follow-up prompt to refine its focus or improve how it handles ambiguity.</p>
+</li>
+</ol>
+<hr />
+<h3 id="scenario-8-generating-a-grant-proposal-outline">Scenario 8: Generating a Grant Proposal Outline</h3>
+<p>Alex needs to write a grant proposal to secure funding for a new community garden initiative—such as building a rainwater harvesting system. He’s turning to Cortex for help generating a solid outline that includes all necessary components.</p>
+<p><strong>Your Practice Task:</strong> Use First Principles Thinking, Chain of Thought, and optionally Meta-prompting to help Alex shape a clear, complete proposal structure.</p>
+<ol>
+<li>
+<p><strong>First Principles:</strong> What is the core purpose of a grant proposal? Identify the essential elements required to make a proposal persuasive and complete. Consider what funders care about—such as the problem, proposed solution, budget, impact, and sustainability.</p>
+</li>
+<li>
+<p><strong>Prompt Construction:</strong> Write a prompt (or sequence) to help Cortex:</p>
+<ul>
+<li>Identify the standard sections in a grant proposal for community-based projects</li>
+<li>Generate guiding questions or points to include in each section</li>
+<li>Suggest possible impact metrics or outcomes</li>
+<li>Produce a well-structured outline (you decide how it should be formatted)</li>
+</ul>
+</li>
+<li>
+<p><strong>Meta-prompting (Optional):</strong> If the outline Cortex returns is too vague or generic, write a follow-up prompt that helps it go deeper, or reframe the structure to better match the goals of the project.</p>
+</li>
+</ol>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+      
+      <nav class="md-footer__inner md-grid" aria-label="Footer" >
+        
+          
+          <a href="../practical_applications_and_tool_tips/" class="md-footer__link md-footer__link--prev" aria-label="Previous: Practical Applications and Tool Tips">
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+            </div>
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Previous
+              </span>
+              <div class="md-ellipsis">
+                Practical Applications and Tool Tips
+              </div>
+            </div>
+          </a>
+        
+        
+          
+          <a href="../conclusion/" class="md-footer__link md-footer__link--next" aria-label="Next: Conclusion">
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Next
+              </span>
+              <div class="md-ellipsis">
+                Conclusion
+              </div>
+            </div>
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg>
+            </div>
+          </a>
+        
+      </nav>
+    
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      <script id="__config" type="application/json">{"base": "..", "features": ["content.code.copy", "navigation.footer"], "search": "../assets/javascripts/workers/search.d50fe291.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.50899def.min.js"></script>
+      
+    
+  </body>
+</html>
