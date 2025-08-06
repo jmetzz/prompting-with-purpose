@@ -2,5 +2,6 @@
 site/
 !.github
 !.pre-commit-config.yaml
+!.python-version
 
 gemini.md
