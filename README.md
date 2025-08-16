@@ -4,6 +4,8 @@ This project is a hands-on crash course designed to teach non-technical students
 
 The course focuses on practical prompting techniques to enhance critical thinking, creativity, and problem-solving skills.
 
+Published at: <https://jmetzz.github.io/prompting-with-purpose/>
+
 ## Core Concepts
 
 This course introduces three key prompting techniques:
