@@ -13,6 +13,7 @@ This section provides a consolidated list of reputable resources for further lea
 - [Prompt Engineering - Microsoft Azure OpenAI Service](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/prompt-engineering)
 - [Prompt Engineering for Microsoft Copilot - Microsoft](https://www.microsoft.com/en-us/microsoft-365/blog/2023/03/16/prompt-engineering-for-microsoft-copilot/)
 - [Prompt Engineering for Perplexity AI - Perplexity AI Blog](https://www.perplexity.ai/blog/prompt-engineering-for-perplexity-ai)
+- [AI Prompt and Context Engineering Assistant - A Notebooklm notebook](https://notebooklm.google.com/notebook/e6bebcbc-3449-471b-a09c-627799bd3146), [by Fernando de Freitas](https://www.linkedin.com/in/fdefreitas/)
 
 ## 🧠 Prompting Techniques & Patterns
 
