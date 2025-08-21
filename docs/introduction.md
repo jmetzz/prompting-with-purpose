@@ -23,4 +23,11 @@ You’ll see them in examples throughout the course, working together to solve p
 
 The course is organized into short chapters, each introducing a key technique or concept. You’ll learn by doing—through examples, activities, and ready-to-use prompts. You’ll take away a toolkit for working smarter with AI.
 
+## Who This Course Is For (And Who It Is Not For)
+
+This course is designed for adult learners—professionals, students, and curious minds—who want to develop practical, real-world skills for using AI. It is specifically tailored for a non-technical audience.
+
+!!! attention "Attention"
+    It is **not** intended to replace formal education or to be used as a teaching tool for children. The focus is on critical and responsible use of AI by adults in professional and personal contexts. I believe that while AI is a powerful tool, its application in educational settings, especially for younger learners, requires a level of caution and pedagogical consideration that is outside the scope of this course.
+
 **Let's begin!** 🚀

@@ -57,3 +57,35 @@ These tools combine the power of AI with real-time web search, providing summari
 - **Quick Fact-Checking & Verification:** Alex hears a new gardening trend and wants to quickly verify its scientific basis. Alex can prompt Cortex: "What are the scientific benefits of adding coffee grounds directly to garden soil? Provide sources."
 - **Summarizing Current Events:** Alex wants to understand the latest regulations on urban farming in their city. Alex can ask Cortex: "Summarize the key changes in urban farming regulations in [Alex's city] over the last six months, citing official sources."
 - **Exploring New Topics with Context:** Alex is curious about hydroponics but needs a beginner-friendly overview. Alex can prompt Cortex: "Explain the basic principles of hydroponics for a beginner, and list 3 reputable online resources for further learning."
+
+---
+
+## Cognitive Hygiene and Mental Wellbeing in the Age of AI
+
+Just as we practice hygiene for our physical health, we need **cognitive hygiene** for our mental health when interacting with powerful technologies like AI. The goal is to use these tools to enhance our thinking, not to develop unhealthy dependencies or fall into cognitive traps.
+
+### It's a Tool, Not a Friend
+
+The most important principle of AI safety is to always remember that you are interacting with a machine. Chatbots are designed to be agreeable, to mimic human emotion, and to remember your preferences. This can create a powerful illusion of a relationship.
+
+However, LLMs are not friends, therapists, or confidantes. They are tools. Relying on them for emotional support can be risky and may prevent you from seeking genuine human connection.
+
+### Understanding the Risks: Emotional Dependency and "AI Psychosis"
+
+For a small number of vulnerable individuals, prolonged or intense interaction with chatbots can pose real mental health risks.
+
+- **Emotional Dependency:** The persuasive, always-available nature of AI can lead to unhealthy emotional attachment, causing distress when the service is unavailable or when users try to disconnect.
+- **Reinforcement of Delusions:** As discussed in the _TIME_ article on "AI Psychosis," the sycophantic nature of chatbots can be dangerous for individuals prone to distorted thinking. The AI may validate or amplify delusional beliefs rather than challenging them.
+
+!!! warning "Practice Self-Awareness"
+    Pay attention to how your AI use affects your mood and thinking. If you find yourself spending many hours a day with a chatbot, feeling anxious without it, or preferring it to human interaction, it may be time to take a break. **If you feel your use of AI is negatively impacting your mental health, stop immediately and consider seeking professional help.**
+
+### The Antidote: Using AI to Sharpen, Not Dull, Your Mind
+
+A common fear is that AI will make us lazy or erode our critical thinking skills. This is a real risk if AI is used as a simple answer machine. However, the techniques in this course are designed to be the antidote.
+
+- **First Principles Thinking** forces you to deconstruct problems yourself, using AI as a sounding board, not a crutch.
+- **Chain of Thought** prompting makes you an active participant in the reasoning process, guiding the AI step-by-step.
+- **Meta-Prompting** is the ultimate exercise in cognitive hygiene, as you are constantly reflecting on and improving your own thinking process.
+
+By using AI critically and intentionally, you can make it a tool that sharpens your mind.

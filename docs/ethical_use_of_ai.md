@@ -20,6 +20,18 @@ This chapter won’t give you all the answers—but it will help you ask better 
 
 ---
 
+## The Bigger Picture: Societal Debates
+
+The frameworks in this chapter are practical tools for individual use, but it's important to understand the broader societal conversations happening around AI. Critical perspectives argue that the rapid adoption of AI comes with significant risks that are worth considering:
+
+- __Impact on Knowledge and Trust:__ Some critics use the metaphor of an "epistemic carcinogen" to describe how AI could erode our collective ability to trust information by flooding our world with plausible but synthetic content.
+- __Hidden Costs:__ The creation of powerful AI models involves hidden costs, including significant environmental impact, the use of precarious human labor to filter toxic content, and the scraping of copyrighted data without creators' consent.
+- __The Future of Work:__ There is an ongoing debate about whether AI will primarily augment human capabilities or replace human labor, raising important questions about the future of our economy and society.
+
+Acknowledging these profound challenges is part of using AI responsibly. It helps frame why the hands-on, critical approach in this course is so important.
+
+---
+
 ## Key Risks to Watch Out For
 
 🤖 __Bias and Discrimination__
@@ -105,3 +117,7 @@ Use this checklist when the AI is influencing a decision, judgment, or recommend
   - [UNESCO AI Ethics Recommendation](https://unesdoc.unesco.org/ark:/48223/pf0000380455)
   - [Montreal Declaration](https://www.montrealdeclaration-responsibleai.com/)
   - [OpenAI Usage Policies](https://openai.com/policies/usage-policies)
+- For deeper reading on the critical perspectives discussed in this chapter, consider these sources:
+  - [An open letter from educators who refuse the call to adopt GenAI in education](https://openletter.earth/an-open-letter-from-educators-who-refuse-the-call-to-adopt-genai-in-education-cb4aee75)
+  - [GenAI is an epistemic carcinogen](https://link.springer.com/article/10.1007/s00146-025-02537-x)
+  - [Chatbots Can Trigger a Mental Health Crisis. What to Know About "AI Psychosis"](https://time.com/7307589/ai-psychosis-chatgpt-mental-health/)
