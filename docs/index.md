@@ -1,7 +1,7 @@
 
 # Prompting with Purpose
 
-**Making Friends with AI — A Crash Course in Thinking Together** 🧠💭
+**Familiarizing with AI — A Crash Course in Thinking Together** 🧠💭
 
 ## Welcome to the Prompting with Purpose Crash Course
 
