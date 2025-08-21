@@ -109,15 +109,20 @@ Use this checklist when the AI is influencing a decision, judgment, or recommend
 
 ## Learn More
 
-- See the [Results Verification](results_verification.md) chapter for how to check facts.
-- If you’re working in a professional context, check your organization’s AI or data policy.
-- Refer to external codes like:
-  - [Mozilla: Trustworthy Artificial Intelligence](https://foundation.mozilla.org/en/internet-health/trustworthy-artificial-intelligence/)
-  - [OECD AI Principles](https://oecd.ai/en/ai-principles)
-  - [UNESCO AI Ethics Recommendation](https://unesdoc.unesco.org/ark:/48223/pf0000380455)
-  - [Montreal Declaration](https://www.montrealdeclaration-responsibleai.com/)
-  - [OpenAI Usage Policies](https://openai.com/policies/usage-policies)
-- For deeper reading on the critical perspectives discussed in this chapter, consider these sources:
-  - [An open letter from educators who refuse the call to adopt GenAI in education](https://openletter.earth/an-open-letter-from-educators-who-refuse-the-call-to-adopt-genai-in-education-cb4aee75)
-  - [GenAI is an epistemic carcinogen](https://link.springer.com/article/10.1007/s00146-025-02537-x)
-  - [Chatbots Can Trigger a Mental Health Crisis. What to Know About "AI Psychosis"](https://time.com/7307589/ai-psychosis-chatgpt-mental-health/)
+See the [Results Verification](results_verification.md) chapter for how to check facts.
+
+If you’re working in a professional context, check your organization’s AI or data policy.
+
+Refer to external codes like:
+
+- [Mozilla: Trustworthy Artificial Intelligence](https://foundation.mozilla.org/en/internet-health/trustworthy-artificial-intelligence/)
+- [OECD AI Principles](https://oecd.ai/en/ai-principles)
+- [UNESCO AI Ethics Recommendation](https://unesdoc.unesco.org/ark:/48223/pf0000380455)
+- [Montreal Declaration](https://www.montrealdeclaration-responsibleai.com/)
+- [OpenAI Usage Policies](https://openai.com/policies/usage-policies)
+
+For deeper reading on the critical perspectives discussed in this chapter, consider these sources:
+
+- [An open letter from educators who refuse the call to adopt GenAI in education](https://openletter.earth/an-open-letter-from-educators-who-refuse-the-call-to-adopt-genai-in-education-cb4aee75)
+- [GenAI is an epistemic carcinogen](https://link.springer.com/article/10.1007/s00146-025-02537-x)
+- [Chatbots Can Trigger a Mental Health Crisis. What to Know About "AI Psychosis"](https://time.com/7307589/ai-psychosis-chatgpt-mental-health/)
