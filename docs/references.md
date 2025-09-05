@@ -17,23 +17,11 @@ This section provides a consolidated list of reputable resources for further lea
 
 ## 🧠 Prompting Techniques & Patterns
 
-- [Prompt Engineering - Coursera (Vanderbilt University)](https://www.coursera.org/learn/prompt-engineering)
+- [Prompt Engineering for ChatGPT - Coursera (Vanderbilt University)](https://www.coursera.org/learn/prompt-engineering)
 - [Generative AI: Prompt Engineering Basics - Coursera (IBM)](https://www.coursera.org/learn/generative-ai-prompt-engineering-basics)
-- [Cognitive Verifier - Vanderbilt University](https://www.vanderbilt.edu/generative-ai/resources/)
-- [Audience Persona - YouTube](https://www.youtube.com/watch?v=2_yJ0-F2_F0)
-- [Flipped Interaction - Curam Ai](https://www.curam-ai.com.au/blog/chat-prompts-understanding-the-flipped-interaction-pattern)
-- [Game Play - Medium](https://medium.com/@ali.aslam/the-game-play-pattern-in-prompt-engineering-a0f2d2e1b2e1)
-- [Template - PromptingGuide.ai](https://www.promptingguide.ai/techniques/template)
-- [Meta Language Creation - Coursera](https://www.coursera.org/learn/prompt-engineering)
-- [Prompt Recipes - Prompt Engineering Org](https://www.promptengineering.org/prompt-recipes-a-framework-for-reusable-ai-prompts/)
-- [Outline Expansion - Medium](https://medium.com/@ali.aslam/prompt-engineering-via-prompt-patterns-outline-expander-pattern-a0f2d2e1b2e1)
-- [Menu Actions - Medium](https://medium.com/@souravpati/menu-actions-pattern-prompt-engineering-a0f2d2e1b2e1)
-- [Fact Check List - YouTube](https://www.youtube.com/watch?v=2_yJ0-F2_F0)
-- [Tail Generation - YouTube](https://www.youtube.com/watch?v=2_yJ0-F2_F0)
-- [Semantic Filter - Debabrata Pruseth](https://debabratapruseth.com/prompt-engineering-semantic-filter-pattern/)
-- [Few-shot Prompting - IBM](https://www.ibm.com/docs/en/watsonx-ai/1.0?topic=prompt-engineering-few-shot-prompting)
+- [Cognitive Verifier - Vanderbilt University](https://www.vanderbilt.edu/generative-ai/prompt-patterns/)
+- [Flipped Interaction - Curam Ai](https://curam-ai.com.au/chat-prompting-flipped-interaction-pattern/)
 - [Tree of Thought - arXiv](https://arxiv.org/abs/2305.10601)
-- [Playoff Method - God of Prompt](https://godofprompt.ai/playoff-method)
 - [Prompt Generator - Voiceflow](https://www.voiceflow.com/blog/prompt-generator)
 
 ## 🧰 Tool-Specific Resources
@@ -56,11 +44,6 @@ This section provides a consolidated list of reputable resources for further lea
 ### Anthropic Claude
 
 - [Prompt Engineering Guide](https://docs.anthropic.com/claude/docs/prompt-engineering)
-- [Multishot Prompting](https://docs.anthropic.com/claude/docs/use-examples-multishot-prompting)
-
-### IBM Watsonx.ai
-
-- [Prompt Engineering Guide](https://www.ibm.com/docs/en/watsonx-ai/1.0?topic=prompt-engineering-guide)
 
 ### Microsoft / Azure OpenAI
 
