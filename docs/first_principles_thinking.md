@@ -3,11 +3,22 @@
 
 This might sound like a fancy academic term, but "First Principles Thinking" is an incredibly powerful and practical approach that will transform how you write prompts. It's about getting to the root of your request before you even start typing.
 
+!!! warning "An important remark"
+
+    AI is evolving at a pace that is difficult for anyone to keep up with — even for professionals.
+    Therefore, I want to point out one important caveat before you begin this course:
+
+    Many modern tools now automate or abstract away parts of good prompting practice. In other words, you may get decent results without deliberately applying the techniques taught in this course.
+
+    That said, understanding *why* these techniques work matters. It helps you push models further, diagnose failure modes, and avoid the subtle pitfalls that emerge when models behave unpredictably.
+
+    These techniques give you leverage: they let you push models past their default behaviour and get more precise, reliable, and useful results.
+
 ## Breaking Down the Problem to its Core
 
 Imagine Alex wants to grow a thriving vegetable garden. Instead of just looking at a beautiful garden and trying to copy its exact layout, First Principles Thinking means Alex goes back to the absolute basics. Alex thinks about: _What does a garden fundamentally need to thrive? Sunlight? Water? What kind of soil? What plants will grow best in this specific environment?_ Alex builds understanding from the ground up, based on core truths about gardening, rather than just copying or modifying existing designs.
 
-Applying this to AI prompting means, instead of trying to find an existing prompt that might _sort of_ fit what you want, you ==break down your request to its most fundamental components==. You ask yourself:
+Applying this to AI prompting means, instead of trying to find an existing prompt that might _sort of_ fit what you want, you break down your request to its most fundamental components. You ask yourself:
 
 1. What is my ultimate goal, precisely? (Not just "summarize this," but "summarize this **so that** a busy executive can grasp its implications in under 30 seconds.")
 2. What **essential** information does Cortex _absolutely need_ to achieve that goal accurately?
